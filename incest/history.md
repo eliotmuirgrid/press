@@ -8,4 +8,4 @@ Subrina has, at times, been labeled “stupid” by others, such as her own sist
 
 I am still grappling with what motivated her to make these claims. At their core, I believe such behaviors stem from the mind’s extraordinary ability to try to solve complex problems. Unfortunately, many professionals fail to appreciate the mathematical and logical underpinnings of human consciousness—our minds are relentless optimization engines, and truth is a necessary anchor. When the truth is denied, contradictions accumulate, and mental strain often follows.
 
-![](sub.jpg){width=300px}
+![](sub.jpeg){width=300px}
