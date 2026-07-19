@@ -1,10 +1,8 @@
-# Email is NO LONGER Supported
-
-**We no longer accept support requests via email.**
+# Eliot prefers if you do not use email to communicate with him 
 
 Many customers have historically preferred to email anonymous addresses rather than have clear, human communication. This is no longer accepted.
 
-**Please carefully review the information provided on our website, and then use WhatsApp or iMessage to contact us.** Communicate kindly and respectfully—respect gets respect, and you will be helped.
+**Please carefully review the information provided on our website, and then use WhatsApp or iMessage to contact Eliot.** Communicate kindly and respectfully—respect gets respect, and you will be helped.
 
 Our support process is designed to maximize the value of everyone’s time. Efficient, thoughtful communication allows us to focus on solving technical problems, not managing unnecessary correspondence.
 
