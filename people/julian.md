@@ -1,6 +1,6 @@
 # Julian Muir
 
-Email [julian.muir@interfaceware.com](julian.muir@interfaceware.com).
+Email [julian.muir@interfaceware.com](maito:julian.muir@interfaceware.com).
 
 Julian is my brother, and over the years, he has played a variety of essential roles within our business—including support, documentation, and quality assurance. His versatility and dedication have been invaluable to our success.
 
