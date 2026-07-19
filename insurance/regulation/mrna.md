@@ -4,7 +4,7 @@ So is nuclear fission and fusion, which provide us with the potential for unlimi
 
 Well, let me quietly point out an uncomfortable probability. As civilizations progress and their understanding of technology increases, there is undoubtedly an unlimited sequence of progressively more and more potentially destructive technologies.
 
-At first, most emerging civilizations like your civilization believe that they actually control this shit. They think that by tightening central controls, they can somehow stop the 'bad guys' from getting the technology.
+At first, most emerging civilizations like your civilization believe that they actually control this risk. They think that by tightening central controls, they can somehow stop the 'bad guys' from getting the technology.
 
 And then the penny slowly drops.
 
