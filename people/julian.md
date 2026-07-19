@@ -1,5 +1,7 @@
 # Julian Muir
 
+Email [julian.muir@interfaceware.com](julian.muir@interfaceware.com).
+
 Julian is my brother, and over the years, he has played a variety of essential roles within our business—including support, documentation, and quality assurance. His versatility and dedication have been invaluable to our success.
 
 What stands out to me most about Julian is his genuine kindness and sensitivity. Like myself, Julian is neurodiverse, and I am deeply grateful to have such a supportive brother by my side. His empathy and unique perspective have enriched both our personal relationship and our professional collaboration.
