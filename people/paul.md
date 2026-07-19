@@ -1,5 +1,7 @@
 # **Paul Gannon**
 
+Email: [paul.gannon@interfaceware.com](paul.gannon@interfaceware.com).
+
 Paul Gannon stands as a transformational force in enterprise account management, recognized as the highest-achieving account executive in iNTERFACEWARE’s history between September 2012 and November 2016.
 
 Paul’s deep familiarity with iNTERFACEWARE’s flagship product uniquely positions him to steward large enterprise accounts, including renowned healthcare systems like MD Anderson. His seniority, combined with an unwavering dedication to client relationships, makes him the go-to partner for the most sophisticated organizations.
