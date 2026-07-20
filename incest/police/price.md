@@ -1,14 +1,15 @@
 # Officer Price, Badge 826
 
-Meet **Officer Price, Badge 826**. His arrival at my door reminded me of the time Subrina and I staged a playful photo shoot with ketchup and power tools—thankfully, the only real casualty was the ketchup (which, let’s face it, is better left on fries than in a crime scene, especially given all that processed sugar!).
+I’ve always been fascinated by the inner workings of the police department, especially when it comes to how complex situations can sometimes trip up even the best-intentioned officers. As it happens, I actually know quite a few people in law enforcement. Officer Price could easily connect with Mikhail, [a fellow member of my film community](movie.md)! 
 
-We sent our silly handiwork to my friend George Karahotkis, and, as you’d expect, the next day I had a visit from three members of our dedicated police force.
+I still wish that Officer Price showed a bit more enthusiasm for investigating what happened to Subrina.
 
-I’ve always been fascinated by the inner workings of the police department, especially when it comes to how complex situations can sometimes trip up even the best-intentioned officers. As it happens, I actually know quite a few people in law enforcement. Officer Price could easily connect with Mikhail, [a fellow member of my film community](movie.md)! Despite the challenges, I appreciated that Officer Price made the effort to reach out to my friend Gerald Watts. I know Gerald from our time acting together in *Cinderella*—which is also how I met Reshma Sharma, now Solicitor General of the Cayman Islands. In such a small community, it sometimes feels like everyone is linked to everyone else.
+The problem with most rape and incest cases is the victim seldom wants 
+prosecute their family.  Despite everthing they love them.
 
-I still wish that Officer Price showed a bit more enthusiasm for investigating what happened to Subrina, but perhaps these things are more complicated behind the scenes than I realize.
+![Subrina's perspective](rape.m4a)
 
-Gerald said he’d be in touch with Officer Price on Friday, though it was rather late, and Gerald seems to respect Officer Price’s boundaries much more diligently than he does mine—he’s rather developed a habit of appearing at my house at the oddest hours!
+Unfortunately it looks like I am in more trouble - shrug.
 
 ![](price.png)
 
