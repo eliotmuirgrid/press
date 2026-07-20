@@ -23,3 +23,6 @@ She's got multiple kids from multiple dads and expresses the very finest in isla
 
 Hopefully she will be motivated to learn about [forking](fork.md) and help others correct the
 factual record on her and other profiles on this site.
+
+Betty often claims to be celebate and when I ever I reach out she asks for money - she's probably is
+a bit lonely - aren't we all?
