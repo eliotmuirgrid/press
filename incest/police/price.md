@@ -7,7 +7,7 @@ I still wish that Officer Price showed a bit more enthusiasm for investigating w
 The problem with most rape and incest cases is the victim seldom wants 
 prosecute their family.  Despite everthing they love them.
 
-![Subrina's perspective](rape.m4a)
+[Subrina's perspective](rape.m4a)
 
 Unfortunately it looks like I am in more trouble - shrug.
 
