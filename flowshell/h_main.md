@@ -1,15 +1,12 @@
-# Let's just start with some simple C++
+# First Problem
 
-And let's learn why Eliot finds it impossible to tolerate
-only programming in C.  There are just a couple of features
-of C++ which make it intolerable to a san(ish) programmar to
-even want to go back to dealing with plain old C which
-unfortunately if you limit yourself to C string handling
-is a recipe for security disaster with buffer overruns
-and shit.
+I want to help Victor Effendi in Singapore by building a small interface that will eliminate the need for him to deal with the complexities of Windows file server permissions and daemon processes.
 
-That's as bad pretending that incest in families isn't a really common problem when it is.
+We can use FlowLua to write a simple program that periodically monitors a folder, then uses HTTPS to send files to Iguana. For the initial version, we'll use CURL since compiling OpenSSL can be challenging, and CURL should suffice for now.
 
+Over time, we'll address all the bottlenecks related to security and usability—since usability is a key part of security.
 
+One advantage is that we already have C++ tracing, and soon we'll have the ability to trace in Lua as well. I used to find the Iguana translator's debugger frustrating; although I could see variable values, I often switched back to C++ because, despite being less sophisticated than the Iguana translator GUI, the C++ tracing felt easier to use.
 
-
+I think I'll learn from that make a better Lua debugging experience than with classical
+Iguana.  This will actually be quite fun!
