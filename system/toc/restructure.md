@@ -61,5 +61,8 @@ The greatest benefit of embracing the Theory of Constraints was gaining visibili
 
 ---
 
-**Summary:**  
+## Summary: 
+
 The core practical application of the Theory of Constraints is to systematically identify, focus on, and resolve your largest bottlenecks first. This ensures your effort yields the biggest possible improvement for your business, system, or personal productivity, and prevents wasted energy on optimizing suboptimal areas.
+
+You have to think very clearly and look at the whole system.
