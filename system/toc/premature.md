@@ -1,6 +1,9 @@
 # Premature Optimization
 
-Much like premature ejaculation, premature optimization is not desirable.
+Premature optimization refers to the practice of developers to
+optimize something which is not a performance limitation of a program.
+
+It is not desirable.
 
 It's a classic example of lacking the patience to wait until you fully understand a system, which is necessary in order to solve the biggest bottleneck.
 
