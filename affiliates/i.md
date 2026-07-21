@@ -1,4 +1,8 @@
-# Keep it Simple Stupid 
+# KISS - Simplicity
+
+**Keep it Simple Stupid**
+
+It's has always been my philosophy and it's why Iguana 6 is so fast, stable and easy to use.  These have always been more core values.
 
 Running a larger organization taught me that much complexity is self-inflicted. Endless discussions about contracts, payments, and paperwork rarely add value—they just create bureaucracy.
 
