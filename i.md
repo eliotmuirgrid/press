@@ -14,6 +14,6 @@ Everything depends on it.
 - Looking to grab Iguana *and* Chameleon? No more just Chameleon! You’ll find them in our [downloads repo](products/downloads.md)—no hiking boots required.
 - Got a license code itch? Scratch it [right here](license.md).
 - Our [documentation](documentation.md) is ready and waiting for your perusal. It’s like Wikipedia, but friendlier.
-- We’ve *temporarily* paused billing due to excessive bureaucracy. [Rest assured, we’re sorting it out. (Yes, you’ll still have to pay eventually.)](business.md)
+- Billing processes are paused. [They will resume when they can be 100% automated.](business.md)
 
 We are focusing on what is most important and applying the [Theory of Constraints](/system/toc).  My excessive focus on social issues has become a constraint.  I need to focus on [Flow](/flowshell). 
