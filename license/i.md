@@ -1,6 +1,6 @@
 # License Codes
 
-This is temporary solution [until we resume billing](/business).
+This is an interim solution [until we resume billing](/business).
 
 We just making sure that customers have all the license codes they
 need to safely operate until we implement a new automated building
