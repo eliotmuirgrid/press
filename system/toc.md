@@ -4,7 +4,7 @@ The Theory of Constraints is one of the most profound ideas in managing an organ
 
 ## The Key Idea
 
-Any system that has flow—whether it's water through a pipe, cash flowing through a business, or data moving through a software program—must, by definition, have one key constraint that limits the flow of the entire system. The system cannot operate any faster than its primary constraint—the [bottleneck](/system/toc/bottleneck).
+Any system that has flow—whether it's water through a pipe, cash flowing through a business, or data moving through a software program—must, by definition, have one key constraint that limits the flow of the entire system. The system cannot operate any faster than its primary constraint—the [bottleneck](/system/bottleneck).
 
 When I first read about this concept, I immediately realized it described a process I had intuitively followed for years while optimizing software.
 
