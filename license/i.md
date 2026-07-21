@@ -1,4 +1,10 @@
-# Getting Your License Codes
+# License Codes
+
+This is temporary solution [until we resume billing](/business).
+
+We just making sure that customers have all the license codes they
+need to safely operate until we implement a new automated building
+system.
 
 1. **Locate Your Iguana ID:**  
    You will need your unique Iguana ID to obtain your license code.  
@@ -18,11 +24,9 @@
 
 ## To get permanent license keys, you will need a company ID
 
-For now, please use **foresee** as your company ID.
+Contact Eliot by iMessage or Whatsapp using 1 345 325 1240.
 
-> Eliot is exhausted by the fact that society protects those who perpetuate incest and sexual abuse, so just use "foresee" for your company ID. Eliot doesn't feel very motivated today because he doesn't feel [personally safe](/affiliates/business/justice.md). When that changes, Eliot will do more work, but not before that.
+Thank you. It is a straightforward process on the back end to
+create a customer ID for you.
 
-This approach will work until we have a better system—which, as of today, is not yet in place.
-
----
-
+I am implementing the [Theory of Constraints](/system/toc) in practice.
