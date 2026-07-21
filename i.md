@@ -1,5 +1,6 @@
+# iNTERFACEWARE Simplified
 
-# Welcome to the New iNTERFACEWARE Website!
+Welcome to a Brave New World.
 
 ## The Focus for Iguana is on Flow 
 
@@ -7,13 +8,27 @@ After conversations with customers, it appears that you all support my work on [
 
 Everything depends on it.
 
-**Quick status update:**  
-- For support, all use of [Email is To Be Discontinued Because of Spam](quality/email.md). In 2026, email is an impossible form of communication due to spam. Unless you are a caveman (which makes it unlikely you’re a customer), you own a personal phone. This is what you will use to communicate with us in a respectful way until we resolve the email spam problem.
-- Chameleon customers need to understand that in 2026 it's not acceptable to avoid encryption with your HL7 feeds. Moving forward, you need to use Iguana with Chameleon and fix this problem—[it's 100% not okay to run with plain text TCP/IP sockets](chameleon/i.md).
-- We’re now close to a weeek leaving [HubSpot](why/hubspot.md) behind, and just like moving apartments, we’re still figuring out which cupboard the coffee mugs are in.  The implementation will be redone with Flow in time.
-- Looking to grab Iguana *and* Chameleon? No more just Chameleon! You’ll find them in our [downloads repo](products/downloads.md)—no hiking boots required.
-- Got a license code itch? Scratch it [right here](license.md).
-- Our [documentation](documentation.md) is ready and waiting for your perusal. It’s like Wikipedia, but friendlier.
-- Billing processes are paused. [They will resume when they can be 100% automated.](business.md)
+## Main Resources  
+- [Product Documentation](documentation.md) 
+- [Information on how to get support](quality/email.md). Unfortunately email has been degraded so we are encouraging other forms of communication.
+- [Get license codes right here.](license.md).
+- [Product Downloads](products/downloads.md)
+- [Billing processes are paused and will resume when they can be 100% automated.](business.md)
+- [Chameleon Customers please understand Secure Sockets is not optional in 2026](chameleon/i.md).
+ 
 
-We are focusing on what is most important and applying the [Theory of Constraints](/system/toc).  My excessive focus on social issues has become a constraint.  I need to focus on [Flow](/flowshell). 
+This website is a major part of setting up new infra-structure for the business. We used to use [HubSpot](why/hubspot.md)
+Currently the implementation is boot strapped in PHP but it will be redone with [Flow](/flowshell) in time.
+
+I am focusing on what is most important and applying the [Theory of Constraints](/system/toc).  My excessive focus on social issues has become a constraint.  I need to focus on [Flow](/flowshell). 
+
+The phase of iNTERFACEWARE has begun.  The mission is as simple as
+it has always been.
+
+Allow our customers to **control their data**. 
+
+
+Enjoy,
+
+**Eliot Muir**  
+**Founder/Architect of Iguana**

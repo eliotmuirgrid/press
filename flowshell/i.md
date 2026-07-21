@@ -45,19 +45,3 @@ is how ordinary humans will take control of their own data.
 
 ![](trace.png)
 
-
-## Chilling Update on the Subrina Situation
-
-The penny dropped for me yesterday, and Subrina—or someone using her WhatsApp account—confirmed it... I don’t know what is true anymore. But when you have a generation of young people who got their sex education from Pornhub, where 99.9% of the content is about “families” having sex together, the chilling reality sinks in.
-
-We are dealing with a **systemic problem for society as a whole**. Shoot me and put me out of my misery. How on earth did we let this happen as a society? We’re all too busy looking at imagined risks and ignoring the very real things happening right under our noses. What the hell! At this stage, it appears that Subrina may in fact be a willing, and probably at times enthusiastic, participant in “family fun times.”
-
-I think I'll keep a low profile until this little storm blows over.
-
-How did society get so dark? I think of my own kids—Rhy Muir and Alice Muir—and it’s pretty damned obvious what the possibilities are. We gave our children all the tools they needed to educate themselves to be porn stars from the moment they could operate a web browser. Perhaps we should have made better choices?
-
-I thought it was cool that my eldest, Liam Muir, taught himself to read off a website by age four. I had no idea what fuse had been lit. Holy crap!
-
-This was the begining when I realized the existential challanges we face - dark times call for unconventional leadership.
-
-I am that leader.
