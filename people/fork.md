@@ -13,7 +13,7 @@ If you’re picturing hoodie-wearing hackers in a neon-lit basement: relax. Fork
 
 **Step 1: Find the Mess**  
 Go to Eliot’s GitHub. No, not *that* one—the one littered with markdown files and titles that sound like clickbait for parrots.  
-*(For example: [github.com/eliotmuirgrid/press](#))*
+*(For example: [A lot of juicy stuff is here](https://github.com/eliotmuirgrid/press/tree/master/people)
 
 **Step 2: Hit the “Fork” Button**  
 This makes YOUR OWN personal copy of the code.  

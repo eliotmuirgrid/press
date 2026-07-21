@@ -4,7 +4,7 @@ Officer Price this information might be wildly inaccurate feel free to ask a mor
 intelligent friend on how to [fork](fork.md) this website and correct the mis-information.
 
 I’ve always been fascinated by the inner workings of the police department, especially when it comes to how complex situations can sometimes trip up even the best-intentioned officers. As it happens, I actually know quite a few people in law enforcement. Officer Price could easily connect with
-[Mikhail MK](mikhail,md) who is a member of the a group of Caymanians who would rather
+[Mikhail MK](mk.md) who is a member of the a group of Caymanians who would rather
 do anything but their extremely boring jobs.
 
 I still wish you would showed a bit more enthusiasm for investigating what happened to [Subrina](subrina.md) rather than making me feel naughty for asking [Kwaine Reid](kwaine.md) her brother awkward questions.
