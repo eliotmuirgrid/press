@@ -1,4 +1,4 @@
-# Billing is Paused
+#  After Automation Billing Will Resume
 
 ## New Business Model
 
