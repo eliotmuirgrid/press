@@ -37,6 +37,15 @@ FlowShell was prototyped in an obscure language called zsh. Don’t worry about 
 
 [Explore FlowShell on GitHub](https://github.com/eliotmuirgrid/flowshell)
 
+## A tiny beginning of something big.
+
+The first screen shot of seeing Lua tracing in action.  It's rough but 
+it's a beginning.  And I will make it better.  Big things start small.  This
+is how ordinary humans will take control of their own data.
+
+![](trace.png)
+
+
 ## Chilling Update on the Subrina Situation
 
 The penny dropped for me yesterday, and Subrina—or someone using her WhatsApp account—confirmed it... I don’t know what is true anymore. But when you have a generation of young people who got their sex education from Pornhub, where 99.9% of the content is about “families” having sex together, the chilling reality sinks in.
