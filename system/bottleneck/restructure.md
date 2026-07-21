@@ -1,9 +1,13 @@
-# Introduction: Focusing on Your Largest Bottleneck
+# Restructuring iNTERFACEWARE
+
+**A practical application of the theory of constraints.**
 
 One of the most profound insights from the [Theory of Constraints](/system/toc) is the directive to **only solve the largest bottleneck**. Whether you’re managing a business, developing software, or even organizing your home, this focus is critical. Being unclear about the true bottleneck leads to wasted effort, inefficiency, and frustration. Instead, it’s essential to calmly and realistically identify the single biggest constraint limiting your system’s performance.
 
 In my case it was my entire employee organization.  I learned a lot and if you are an entrepreneur
-that wants to 
+that wants to do what I have done - let's talk and I can tell you how do it a lot more smoothly
+than I did it.  It's hard to be trail blazer.  I did it and I survived.  I'm pretty scrappy
+when I get into a corner.
 
 ---
 
