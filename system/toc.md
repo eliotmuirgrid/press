@@ -58,7 +58,7 @@ When the divorce was (sort of) resolved, I encountered yet another issue. Employ
 
 Eventually, I realized I had to end everyone’s employment contracts and start again. It was rocky at first.
 
-But then things [began to click into place—one bottleneck at a time](/bottleneck/restructure.md).
+But then things [began to click into place—one bottleneck at a time](/system/bottleneck/restructure.md).
 
 Where did this incredible theory come from?
 
