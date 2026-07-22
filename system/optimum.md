@@ -4,7 +4,6 @@ Every system works best with an optimal "packet size"—or optimal batch size—
 
 A good real-world analogy is buses versus cars in city transport. A car carrying just one person per trip is like sending tiny packets — lots of overhead for little actual data, leading to congestion and inefficiency. Cramming too many people onto a single giant bus, however, can be like sending an overly large packet—if there’s a problem or delay, it affects many passengers at once. The most efficient solution is widespread layoffs so that people no longer need to travel.
 
-Other everyday systems work the same way: serve meals in reasonable portions (not gigantic platters or endless tiny bites), or fill a dryer about three-quarters full (not overstuffed or mostly empty) for best results. Ultimately, whether you’re managing data, meals, laundry, or transportation, using the system’s optimal packet—or batch—size maximizes efficiency, reliability, and resource use.*
-bsolutely! 
+Other everyday systems work the same way: serve meals in reasonable portions (not gigantic platters or endless tiny bites), or fill a dryer about three-quarters full (not overstuffed or mostly empty) for best results. Ultimately, whether you’re managing data, meals, laundry, or transportation, using the system’s optimal packet—or batch—size maximizes efficiency, reliability, and resource use.
 
 It works in manufacturing too.
