@@ -1,4 +1,6 @@
-# Biology is Now an Information Science
+# Biology 
+
+Biology is now becoming an information science.
 
 The days of biology being a field for the mathematically challenged are over. Biology is being transformed by our understanding of code, and artificial intelligence is shaping what is possible in this field.
 
