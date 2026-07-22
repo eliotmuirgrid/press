@@ -1,4 +1,4 @@
-# Security is Everything
+# Security 
 
 We now live in a world where attackers have exponentially more resources and capabilities. In such an environment, the ability to run older solutions—especially those that can operate independently of the cloud or outside of mainstream networks—becomes a significant advantage.
 
