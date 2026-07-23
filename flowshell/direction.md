@@ -1,4 +1,4 @@
-# I’m getting into Flow.
+# I’m Getting into Flow
 
 Both the project itself and, quite literally, a state of flow.
 
@@ -10,9 +10,9 @@ I’m taking a nap now because this is intellectually demanding work, and I need
 
 I’m effectively bootstrapping my entire toolchain using the tool itself.
 
-I suspect, the creator of Cosmopolitan, followed a similarly logical path. Where my approach differs is that I’ve spent most of my career building tools that help developers understand what their software is actually doing. I’m applying those same principles to my own development environment.
+I suspect the creator of Cosmopolitan followed a similarly logical path. Where my approach differs is that I’ve spent most of my career building tools that help developers understand what their software is actually doing. Now, I’m applying those same principles to my own development environment.
 
-The Lua tracing system is coming together, but it will be very different from the tracing system in Iguana. Instead, I’m deliberately making it conceptually similar to how I have historically dones tracing in C++ although I am simplifying that also. The goal isn’t flashy visual interfaces—it’s giving developers complete control over what they see.
+The Lua tracing system is coming together, but it will be very different from the tracing system in Iguana. Instead, I’m deliberately making it conceptually similar to how I have historically done tracing in C++, although I am simplifying it as well. The goal isn’t flashy visual interfaces—it’s giving developers complete control over what they see.
 
 One of the lessons I’ve learned over the years is that graphical debugging environments often get in the way. If I need to inspect memory in hexadecimal, I want that view every single time I run the program—not after configuring a collection of stateful windows and clicking through menus.
 
@@ -26,7 +26,7 @@ It’s probably the most ambitious project I’ve ever attempted, but it’s als
 
 I almost feel like I needed to reach this stage of my career before I could build something like this.
 
-Eventually you’ll be able to download a single binary, have it unpack itself, and automatically retrieve only the development tools you actually need. There won’t be an enormous SDK polluting the operating system.
+Eventually, you’ll be able to download a single binary, have it unpack itself, and automatically retrieve only the development tools you actually need. There won’t be an enormous SDK polluting the operating system.
 
 Every dependency should be a Cosmopolitan binary—or another self-contained executable—downloaded only when required.
 
@@ -38,15 +38,15 @@ It’s also what produces systems that are simple, trustworthy, and secure.
 
 I’m genuinely proud of how this is coming together.
 
-Once I have socket support, the pace should accelerate dramatically. Initially I’ll probably use curl before implementing my own TLS/SSL implementation which will be very small and not huge like OpenSSL. Once networking is in place, implementing IMAP and SMTP becomes straightforward, allowing the platform to receive and send email natively.
+Once I have socket support, the pace should accelerate dramatically. Initially, I’ll probably use curl before implementing my own TLS/SSL implementation, which will be very small and not huge like OpenSSL. Once networking is in place, implementing IMAP and SMTP becomes straightforward, allowing the platform to receive and send email natively.
 
-Because the entire environment is transparent and command-line driven, debugging should remain exceptionally simple. That same simplicity also makes unit testing almost effortless to bootstrap.
+Because the entire environment is transparent and command-line-driven, debugging should remain exceptionally simple. That same simplicity also makes unit testing almost effortless to bootstrap.
 
 Since writing C++ functions and exposing them directly to Lua is so lightweight, adding capabilities such as screen capture, mouse control, and keyboard automation becomes natural.
 
 Once AI can inspect the screen and reason about what it’s seeing, the platform can automate workflows that traditional APIs simply can’t reach—including tasks such as navigating multi-factor authentication and interacting with legacy desktop software exactly as a human user would.
 
-It won't be necessary not probably desirable for AI to be used in most production cases.  AI should augment, support and help develop human talent - not replace it.
+It won’t be necessary—or probably desirable—for AI to be used in most production cases. AI should augment, support, and help develop human talent—not replace it.
 
 Combined with browser automation and inspection, this becomes an extremely powerful integration platform.
 
@@ -80,6 +80,6 @@ Every component should be signed.
 
 Every dependency should be understandable.
 
-Every back door should be impossible by design.
+Every backdoor should be impossible by design.
 
 That’s the foundation of trusted private computing.
