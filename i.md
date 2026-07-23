@@ -14,6 +14,8 @@ I am actually [harmonizing the two languages and using a common tracing system](
 Tracing this way will make it easy to see and 
 optimize bottlenecks.  Bring on the [theory of constraints](/system/toc) :-).
 
+It's coming along.  Another [Flow Update](/flowshell/direction.md).
+
 ## Main Resources  
 - [Product Documentation](documentation.md) 
 - [Information on how to get support](quality/email.md). Unfortunately email has been degraded so we are encouraging other forms of communication.
