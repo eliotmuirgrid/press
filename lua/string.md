@@ -12,3 +12,4 @@ This was non-trivial, but it was worth it.
 
 Software is a game of inches—steadily solving one [bottleneck]{/system/toc) after another until things flow.
 
+This was the [patch](https://github.com/eliotmuirgrid/flowlua/commit/dc0b3e71eaa19722471f889dce8e61e6f899b39f).

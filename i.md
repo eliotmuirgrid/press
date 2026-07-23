@@ -8,6 +8,12 @@ After conversations with customers, it appears that you all support my work on [
 
 Everything depends on it.
 
+I just added support for [Lua 5.1 string syntax](/lua/string.md). Sorry I got distracted. I am happy to back working on code. It's my happy quiet
+sane place.  Flow is really cool though.  Instead of having a hard distinction between 'customer' code in Lua and 'Iguana' code in C++
+I am actually [harmonizing the two languages and using a common tracing system](/flowshell/common.md).  It's so cool. 
+Tracing this way will make it easy to see and 
+optimize bottlenecks.  Bring on the [theory of constraints](/system/toc) :-).
+
 ## Main Resources  
 - [Product Documentation](documentation.md) 
 - [Information on how to get support](quality/email.md). Unfortunately email has been degraded so we are encouraging other forms of communication.

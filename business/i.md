@@ -1,4 +1,4 @@
-#  After Automation Billing Will Resume
+# After Automation, Billing Will Resume
 
 ## New Business Model
 
@@ -10,7 +10,7 @@ The core value of iNTERFACEWARE has always been the same: there was one highly g
 
 The value of the business was always very simple.
 
-Iguana 6.1.5, and lately Iguana 6.2.0, were extremely stable products.
+Iguana 6.1.5, and lately Iguana 6.2.0, have been extremely stable products.
 
 In fact, global healthcare cannot run without these products. Iguana is so fast that it’s used in many production contexts where it is simply not replaceable.
 
@@ -20,7 +20,7 @@ This fact made me confident enough to try one of the most audacious experiments 
 
 The challenges of moving the product forward under the traditional model made it very difficult to achieve what was needed.
 
-The presence of 26 or so mostly Canadian employees severely distorted the necessary communication processes required to get a clear view of the business’s needs.
+The presence of about 26, mostly Canadian, employees severely distorted the necessary communication processes required to get a clear view of the business’s needs.
 
 ## Iguana Solves an Extremely Technical Problem
 
@@ -34,7 +34,7 @@ It takes a very focused engineer to have the perseverance to do what’s necessa
 
 ## Traditional Business Models for Middleware Fail
 
-At one end of the spectrum, you have 'abandonware' or open-source products, like the successor to the Mirth engine. There are too many cooks in the kitchen, and they use complicated technologies which simply cannot be mathematically proven to be secure.
+At one end of the spectrum, you have 'abandonware' or open-source products, like the successor to the Mirth engine. There are too many cooks in the kitchen, and they use complicated technologies that simply cannot be mathematically proven to be secure.
 
 Unfortunately, code is not politically aware. It does not read the fine print in service-level agreements. It is one of two things:
 
@@ -51,7 +51,7 @@ It's difficult. Let's look at the problems.
 
 First, you need profoundly skilled engineering to build a stable interface engine. That is where I excel.
 
-Second, you need commitment. This is my life's work. I have always been insanely committed to the technology.
+Second, you need commitment. This is my life's work. I have always been intensely committed to the technology.
 
 The excitement of an “exit” event—trading my life’s work for money—was not interesting.
 
@@ -61,11 +61,11 @@ ZERO.
 
 IT DOES NOT HAPPEN.
 
-That is because you need a profoundly honest intellectual process to achieve the engineering rigor required. This not only demands exceptional engineering, but also an extraordinarily honest communication process.
+That is because you need a profoundly honest intellectual process to achieve the engineering rigor required. This demands not only exceptional engineering, but also an extraordinarily honest communication process.
 
 ## Traditional Corporations Suppress Honest Communication
 
-I reached the point that I realized the traditional corporate structure was a dead end. Having employees interact with my customers prevented the real conversations I needed to honestly see the true requirements of an outstanding solution to the middleware problem.
+I reached the point where I realized the traditional corporate structure was a dead end. Having employees interact with my customers prevented the real conversations I needed to honestly see the true requirements of an outstanding solution to the middleware problem.
 
 The people with the loudest voices in the old structure had the worst information—managers who had long since forgotten how to code; people with no real idea about the true issues they were solving.
 
@@ -93,7 +93,7 @@ But critical infrastructure technology needs to be much more visible. You cannot
 
 As a customer, you must be able to see the source code and trust that when you compile it, it is secure—that you can trust it like your life depends on it.
 
-Because pretty soon, people’s lives will depend on this technology. That is going to be a fact. Don’t shoot the messenger.
+Because pretty soon, people’s lives will depend on this technology. That’s going to be a fact. Don’t shoot the messenger.
 
 ## The Security Landscape
 
@@ -103,7 +103,7 @@ That is my vision moving forward.
 
 I don’t care if I lose 95% of my existing customers. When the music stops, the only viable solution for safe middleware pipes will be my company.
 
-Is that an intense vision? Yes it is. But did you think the force behind the world’s easiest to use, fastest, and most stable integration platform (despite not many recent updates) wouldn’t be an intense personality?
+Is that an intense vision? Yes, it is. But did you think the force behind the world’s easiest-to-use, fastest, and most stable integration platform (despite not many recent updates) wouldn’t be an intense personality?
 
 Unfortunately, my staff overshadowed my vision. That was why they needed to go—at least in the form they were. Slowly, some are coming back.
 
@@ -117,15 +117,15 @@ But to be clear, this is not the plan. I plan to resume billing once the [Flow](
 
 Why is that? I am finally rigorously applying the [Theory of Constraints](/system/toc) framework to the business as a whole.
 
-I am not planning to achieve everything alone. Yes, I am building some foundational technology which will underpin the whole effort. But I am also operating through a growing network of like-minded individuals and organizations. This will take a team effort—just not a conventional \u2018corporate’ team.
+I am not planning to achieve everything alone. Yes, I am building some foundational technology which will underpin the whole effort. But I am also operating through a growing network of like-minded individuals and organizations. This will take a team effort—just not a conventional ‘corporate’ team.
 
 ## What Problem Are We Solving?
 
-My organization is going to be saving yours. At the beginning of my restructuring, I purposely destroyed most of my own infrastructure. I wanted to feel emotionally what my customer organizations would face, and then set up an infrastructure that could operate in a robust, distributed manner—because it’s exactly what major hospitals will face in the next big crisis.
+My organization is going to be saving yours. At the beginning of my restructuring, I purposely destroyed most of my own infrastructure. I wanted to feel emotionally what my customer organizations would face, and then set up an infrastructure that could operate robustly and in a distributed manner—because it’s exactly what major hospitals will face in the next big crisis.
 
 That crisis will not be pretty. It will make COVID look like a kids' dress rehearsal.
 
-Imagine a wartime scenario. Biological weapons will inevitably be used; hostile actors will be able to make viruses that can kill, and they will be able to inoculate themselves.
+Imagine a wartime scenario: biological weapons will inevitably be used; hostile actors will be able to make viruses that can kill and will be able to inoculate themselves.
 
 There will be civil disorder. Men with guns will be needed to keep order in the halls and deal with violence.
 
@@ -143,9 +143,9 @@ You might prefer to pretend that this time will never come, but my hand will be 
 
 It's not a matter of if.
 
-It is merely a matter of when.
+It's merely a matter of when.
 
-That time will come.  I hope it takes a long time. We need time to prepare and get ready.
+That time will come. I hope it takes a long time. We need time to prepare and get ready.
 
 This won't be easy.
 
@@ -157,11 +157,11 @@ This customer ID will allow you to generate all the license codes you need while
 
 ## Support – Email is Mostly Dead for Now
 
-Why not email? The answer is quite logical. Email is now overwhelmed by phishing attacks and spam. Combined with poor habits that most customers had with email, the entire exercise has become incredibly manual for a business function that should be entirely automated. It should be just like any other cloud service you purchase.
+Why not email? The answer is quite logical. Email is now overwhelmed by phishing attacks and spam. Combined with the poor habits most customers had with email, the entire exercise has become incredibly manual for a business function that should be entirely automated. It should be just like any other cloud service you purchase.
 
 ## Future Billing Process
 
-Very, very simple.
+Very, very simple:
 
 If you pay, it works.
 
@@ -173,13 +173,13 @@ But before we get there, we need the right infrastructure in place. We have to e
 
 ## No Customization of Terms
 
-Everyone gets the same product, and the same simple organization , the service level is the same for everyone. The only negotiation is how much you will pay. That is it. Iguana will always be a beautifully stable product. It doesn’t need a [service level agreement](affiliates/business/sla) to run smoothly.
+Everyone gets the same product and the same simple organization. The service level is the same for everyone. The only negotiation is how much you will pay. That is it. Iguana will always be a beautifully stable product. It doesn’t need a [service level agreement](affiliates/business/sla) to run smoothly.
 
 However, if you are a regulated business and need more formal support arrangements, I am slowly building a network. The problem is that demand is low—because Iguana is so reliable. It runs like a tank, making it hard to justify elaborate support organizations for it.
 
-There has to be value otherwise no one pays for nothing.
+There has to be value; otherwise, no one pays for nothing.
 
 There is just not a lot of legitimate value—that is the issue.
 
-That said, competent people who can implement interfaces have value.
+That said, competent people who can implement interfaces have value. I am happy to connect customers with competent consultants that value simplicity and security.
 
