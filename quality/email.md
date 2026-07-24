@@ -1,5 +1,10 @@
 # Eliot prefers if you do not use email to communicate with him 
 
+Honesty he's so bothered by this problem himself, he's writing a cool command line tool to make
+it easy to clean up his inbox.  It seems like a much more compelling problem and all the other
+things he could do.  Let's face it - email is an absolute chore.  So much unsolicited fake
+communications which make it hard to see the real stuff.
+
 Many customers have historically preferred to email anonymous addresses rather than have clear, human communication. This is no longer accepted.
 
 **Please carefully review the information provided on our website, and then use WhatsApp or iMessage to contact Eliot.** Communicate kindly and respectfully—respect gets respect, and you will be helped.
@@ -10,9 +15,7 @@ Our support process is designed to maximize the value of everyone’s time. Effi
 
 Before contacting support, please spend a few minutes searching our website. Many questions are already answered in our documentation, FAQs, and technical articles. If your question is addressed in these resources, we expect you to find the answer there.
 
-At the moment, we deliberately avoid having search available on the website. This is because Eliot wants you to be curious and thoughtful—not just about the quality of your work, but about what is required to make our society a just and kind place where daughters, nieces, and sisters can live without fear of being preyed upon by their family members. I know it's an uncomfortable topic, and most of you would rather these predators be left in peace to do what they do while you get on with earning a living. Perhaps you too have made some poor choices which you would rather not be held accountable for.
-
-But accountability is important, so here we are.
+At the moment, we deliberately avoid having search available on the website. This is because Eliot wants you to be curious and thoughtful.
 
 ## Ask AI First
 
