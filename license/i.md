@@ -17,8 +17,8 @@ system.
 
 - **For Chameleon:**  
      Install Iguana 6.1.5 or 6.2 for Windows and use the same license key generator as for Iguana Classic (see above).  
-     Iguana comes with Chameleon embedded.  
-     It's unlikely we will optimize this further. [Chameleon is long overdue for retirement. Eliot isn’t terribly empathetic; you should have moved off Chameleon a long time ago and this is mostly a problem you created.](../chameleon/license.md)
+     Iguana comes with Chameleon embedded.  There are no plans to support licensing Chameleon separately.  
+     [This is  best since Iguana supports encrypted TCP/IP sockets which is important.](../chameleon/license.md)
 
 ---
 
