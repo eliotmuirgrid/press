@@ -14,7 +14,7 @@ The integration engine is rarely the biggest challenge. The difficult part is wo
 
 That's a fairly common business model in healthcare IT.
 
-Healthcare is also a relatively small market, so many vendors try to maximize revenue from existing customers instead of competing aggressively on quality. The technology often isn't the bottleneck—the business incentives are.
+Healthcare is also a market where many vendors try to maximize revenue from existing customers instead of competing aggressively on quality. The technology often isn't the bottleneck—the business incentives are.
 
 Because of that, I usually recommend having several short one-on-one conversations rather than one large project kickoff meeting. You can identify the real constraints much more quickly.
 
