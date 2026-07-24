@@ -20,6 +20,10 @@ technical problem and it's something that everyone on the planet needs.
 In the process building an effective solution for this will just happen to drop out a very good
 integration engine platform.  Email is a good a starting place as any :-)
 
+## Had a nice chat with Iowa Radiology about Security
+
+Flow will really help with that.
+
 See [Flow](/flowshell) for more random notes which most people don't understand about what Flow is.
 
 ## Main Resources  
