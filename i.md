@@ -8,7 +8,8 @@ I am sure you all very excited to hear that we are resuming billing processes.  
 with a focus on the [Theory of Constraints](/system/toc).  The first constraint to remove was
 to get rid of Eliot in the process and accept that it's actually pragmatic to start by using
 our legacy systems. The important thing is to get started and then look at reducing friction
-in the process. See [resumption of billing](business.md).
+in the process. See [resumption of billing](business.md).  Thanks to [Paul Gannon](/people/paul.md)
+for getting this exciting business process resumed.
 
 ## The Focus for Iguana is on Flow 
 
