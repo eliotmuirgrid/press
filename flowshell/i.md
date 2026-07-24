@@ -1,26 +1,20 @@
 # Flow
 
-## Focus for Today – Rearranging the Site to Preserve Mental Health
+## Let's deal with SPAM
 
-So far, in all my conversations with customers, we’ve reached the same conclusion.
+This part of my site is full of lots of technical details about my Flow framework tool but I
+realize no one is that interested!  But everyone is overwhelmed with email spam and that is
+going to be my first application of this technology.  
 
-Iguana 6 is good enough—please focus on making Flow the foundation that can replace it.
-
-Also, could we hear a little less about social issues? We get it. These issues are real, but they are disturbing us, and we need better boundaries for the sake of our mental health.
-
-I’ve confirmed with my customers, and the main request I’ve heard loud and clear from you is: while the thoughtful among you understand the issues I’ve raised are real, you don’t want to engage with them every day. It’s the stuff of nightmares, and frankly, it’s not good for anyone’s mental health—mine included.
-
-Today, my focus is on maturing Flow, which will now replace FlowShell and FlowLua, and turning it into a tool that will allow me to rearrange the website—making the social topics I discuss less prevalent.
-
-I also hope to add the beginning of Lua tracing. This will be similar to what the translator does, but much more powerful, providing a tool for writing and running substantial code in Lua.
-
-It’s all about control and visibility.
+Stay tuned!
 
 ## Installation Instructions
 
 To install it, go here for instructions:
 
-[Explore FlowLua on GitHub](https://github.com/eliotmuirgrid/flowlua)
+[Explore FlowLua on GitHub](https://github.com/eliotmuirgrid/flow)
+
+## Boring Technical Details that only Eliot Really Cares About (ha ha)
 
 Compilation is currently only supported on Linux and Mac, but the cool thing is the same binary works on all operating systems because it uses Cosmopolitan.
 
