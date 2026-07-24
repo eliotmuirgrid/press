@@ -4,17 +4,14 @@ Welcome to a Brave New World.
 
 ## The Focus for Iguana is on Flow 
 
-After conversations with customers, it appears that you all support my work on [Flow](/flowshell), which will become the foundation that succeeds all Iguana products. It’s an incredible direction. However, I realize there have been short-term distractions that highlight some of the issues in our society. Still, I need to stay focused on [Flow](/flowshell).
+Eliot's decided he's going to work on a caffinated high with Chemical Bros playing until he's got
+Flow working with it's first killer application.  Getting email under control!  It's an interesting
+technical problem and it's something that everyone on the planet needs.
 
-Everything depends on it.
+In the process building an effective solution for this will just happen to drop out a very good
+integration engine platform.  Email is a good a starting place as any :-)
 
-I just added support for [Lua 5.1 string syntax](/lua/string.md). Sorry I got distracted. I am happy to back working on code. It's my happy quiet
-sane place.  Flow is really cool though.  Instead of having a hard distinction between 'customer' code in Lua and 'Iguana' code in C++
-I am actually [harmonizing the two languages and using a common tracing system](/flowshell/common.md).  It's so cool. 
-Tracing this way will make it easy to see and 
-optimize bottlenecks.  Bring on the [theory of constraints](/system/toc) :-).
-
-It's coming along.  Another [Flow Update](/flowshell/direction.md).
+See [Flow](/flowshell) for more random notes which most people don't understand about what Flow is.
 
 ## Main Resources  
 - [Product Documentation](documentation.md) 
