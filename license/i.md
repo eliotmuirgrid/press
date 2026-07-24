@@ -1,6 +1,9 @@
 # License Codes
 
-This is an interim solution [until we resume billing](/business).
+This is an new resilient licensing system.  It is less fully functioned
+than the legacy license system, but is designed for working in a distributed
+manner.  Licensing systems matter. They need to be resilent in the face
+of disruption.
 
 We just making sure that customers have all the license codes they
 need to safely operate until we implement a new automated building
