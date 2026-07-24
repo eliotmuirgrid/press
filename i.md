@@ -2,6 +2,14 @@
 
 Welcome to a Brave New World.
 
+## Billing is Resuming!
+
+I am sure you all very excited to hear that we are resuming billing processes.  But this time
+with a focus on the [Theory of Constraints](/system/toc).  The first constraint to remove was
+to get rid of Eliot in the process and accept that it's actually pragmatic to start by using
+our legacy systems. The important thing is to get started and then look at reducing friction
+in the process. See [resumption of billing](business.md).
+
 ## The Focus for Iguana is on Flow 
 
 Eliot's decided he's going to work on a caffinated high with Chemical Bros playing until he's got
@@ -18,7 +26,7 @@ See [Flow](/flowshell) for more random notes which most people don't understand 
 - [Information on how to get support](quality/email.md). Unfortunately email has been degraded so we are encouraging other forms of communication.
 - [Get license codes right here.](license.md).
 - [Product Downloads](products/downloads.md)
-- [Billing processes are paused and will resume when they can be 100% automated.](business.md)
+- [Billing processes are resumed even if they are not automated yet.](business.md)
 - [Chameleon Customers please understand Secure Sockets is not optional in 2026](chameleon/i.md).
  
 

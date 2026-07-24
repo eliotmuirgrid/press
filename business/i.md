@@ -1,4 +1,12 @@
-# After Automation, Billing Will Resume
+# Billing is Resuming!
+
+I am sure our customers will be relieved to know that we're going to start behaving like an
+ordinary business again and send you invoices which your accounting departments can have fun
+with figuring out how to pay or not to pay.
+
+The intent is still to automate the process but to begin with [Paul Gannon](../people/paul.md) is
+using our existing legacy systems to send out exciting invoices - thanks Paul - you have 
+a lot more patience that I do!
 
 ## New Business Model
 
