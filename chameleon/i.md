@@ -1,4 +1,6 @@
-# Chameleon now with Iguana Fries 
+# Chameleon 
+
+**Chameleon is now only supported combined with Iguana**.
 
 Paul Gannon asked me today, "What's the value proposition of Chameleon users switching to Iguana.
 
