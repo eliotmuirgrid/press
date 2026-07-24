@@ -1,4 +1,4 @@
-# *Paul Gannon**
+# Paul Gannon
 
 **Email:** [paul.gannon@interfaceware.com](mailto:paul.gannon@interfaceware.com)
 
