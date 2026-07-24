@@ -1,4 +1,4 @@
-# Why Not Rust or Other Trending Languages?
+# Why Not Rust or some Other Trendy Language?
 
 **C** has effectively won the systems programming war, and **C++** adds the essential features you might need on top of C. Notably, garbage collection is *not* something you generally want or need at this level.
 
