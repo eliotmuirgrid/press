@@ -1,54 +1,49 @@
-# iNTERFACEWARE - Integration That Improves Business Performance 
+# iNTERFACEWARE – Integration That Improves Business Performance
 
-We help organizations identify operational [bottlenecks](/system/toc/bottleneck) using the
-[Theory of Constraints](/system/toc) delivering measurable business
-improvements rather than integration for its own sake.
+We help organizations identify operational [bottlenecks](/system/toc/bottleneck) using the [Theory of Constraints](/system/toc), delivering measurable business improvements rather than integrating for its own sake.
 
-## Billing is Resuming!
+At iNTERFACEWARE, we help our clients think more clearly, often using analogies from everyday life to make key concepts easy for everyone to understand.
 
-I am sure you all very excited to hear that we are resuming billing processes.  But this time
-with a focus on the [Theory of Constraints](/system/toc).  The first constraint to remove was
-to get rid of Eliot in the process and accept that it's actually pragmatic to start by using
-our legacy systems. The important thing is to get started and then look at reducing friction
-in the process. See [resumption of billing](business.md).  Thanks to [Paul Gannon](/people/paul.md)
-for getting this exciting business process resumed.
+We pride ourselves on challenging our clients—sometimes even shocking them. This approach is helpful, as breaking out of conventional thought processes enables us to achieve exceptional business success.
 
-## The Focus for Iguana is on Flow 
+Sometimes, rather than integrating everything, the first thing every business should consider is what to remove from their system. The easiest way to improve a business is by removing processes, solutions, and technologies that are **not working**.
 
-Eliot's decided he's going to work on a caffinated high with Chemical Bros playing until he's got
-Flow working with it's first killer application.  Getting email under control!  It's an interesting
-technical problem and it's something that everyone on the planet needs.
+Think of it as "[decluttering your business](/system/remove)" to reduce complexity and entropy—much in the same way you can simplify your home by removing things that no longer serve you.
 
-In the process building an effective solution for this will just happen to drop out a very good
-integration engine platform.  Email is a good a starting place as any :-)
+We value substance over sizzle. This website is deliberately simple; clarity is more important than illusion.
 
-## Had a nice chat with Iowa Radiology about Security
+## Iguana 6 is Solid
 
-Flow will really help with that.
+Our technology focus is now on [Flow](/flowshell). Flow is more than just optimizing the process of integration—it's about optimizing the performance of development itself.
 
-See [Flow](/flowshell) for more random notes which most people don't understand about what Flow is.
+Any organization that truly seeks to dominate its market will need to implement the Theory of Constraints. It's impossible to achieve that by piecing together half-completed "off the shelf" (i.e., stale, half-baked, and ineffective) solutions.
 
-## Main Resources  
-- [Product Documentation](documentation.md) 
-- [Information on how to get support](quality/email.md). Unfortunately email has been degraded so we are encouraging other forms of communication.
-- [Get license codes right here.](license.md).
+This is why Flow needs to exist. But we're not looking to beta test Flow on clients; we are using it ourselves to optimize all of our own business processes, applying the [Theory of Constraints](/system/toc).
+
+Exceptional performance sometimes means making uncomfortable changes, but that is necessary for businesses that seek to be leaders.
+
+## Main Resources
+
+- [Product Documentation](documentation.md)
+- [Information on how to get support](quality/email.md). Unfortunately, email communication has degraded, so we encourage other forms of communication.
+- [Get license codes right here.](license.md)
 - [Product Downloads](products/downloads.md)
-- [Billing processes are resumed even if they are not automated yet.](business.md)
-- [Chameleon Customers please understand Secure Sockets is not optional in 2026](chameleon/i.md).
- 
+- [Billing processes are being optimized.](business.md)
+- [Chameleon Customers: Please note, Secure Sockets will be mandatory in 2026](chameleon/i.md)
 
-This website is a major part of setting up new infra-structure for the business. We used to use [HubSpot](why/hubspot.md)
-Currently the implementation is boot strapped in PHP but it will be redone with [Flow](/flowshell) in time.
+This website is a major part of setting up new infrastructure for the business. We used to use [HubSpot](why/hubspot.md). Currently, the implementation is bootstrapped in PHP, but it will be redone with [Flow](/flowshell) in time.
 
-I am focusing on what is most important and applying the [Theory of Constraints](/system/toc).  My excessive focus on social issues has become a constraint.  I need to focus on [Flow](/flowshell). 
+I am focusing on what is most important and applying the [Theory of Constraints](/system/toc). My excessive focus on social issues has become a constraint; I need to focus on [Flow](/flowshell).
 
-The phase of iNTERFACEWARE has begun.  The mission is as simple as
-it has always been.
+Enjoy the simplicity and information-richness of our new website.
 
-Allow our customers to **control their data**. 
+The mission is as simple as it has always been:
 
+Allow our customers to **control their data**.
 
 Enjoy,
 
 **Eliot Muir**  
-**Founder/Architect of Iguana**
+**CEO/Founder of iNTERFACEWARE**  
+**Architect of Iguana**  
+
