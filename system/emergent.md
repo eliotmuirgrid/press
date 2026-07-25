@@ -14,7 +14,7 @@ Chasing every whim of unreasonable clients is the *business version of junk data
 
 ## “AI Enabled!” is a Lie Without Relentless Feedback
 
-Today’s marketplace is drowning in “AI-enabled” products—labels for show, not substance. True AI-driven improvement isn’t about the badge. It’s about obsession with feedback, iteration, and the willingness to kill sacred cows when required by evidence. The best companies* aren’t* the ones that install flashy AI features—they’re the ones that measure, learn, and pivot in public, even when it stings their pride.
+Today’s marketplace is drowning in “AI-enabled” products—labels for show, not substance. True AI-driven improvement isn’t about the badge. It’s about obsession with feedback, iteration, and the willingness to kill sacred cows when required by evidence. The best companies *aren’t* the ones that install flashy AI features—they’re the ones that measure, learn, and pivot in public, even when it stings their pride.
 
 Take chatbots: it’s easy to stick one on your homepage and call it innovation. It’s much harder—and vastly rarer—to rip it out in front of everyone because it underperforms and makes you look bad.
 
