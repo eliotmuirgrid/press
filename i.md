@@ -1,6 +1,8 @@
-# iNTERFACEWARE Simplified
+# iNTERFACEWARE - Integration That Improves Business Performance 
 
-Welcome to a Brave New World.
+We help organizations identify operational [bottlenecks](/system/toc/bottleneck) using the
+[Theory of Constraints](/system/toc) delivering measurable business
+improvements rather than integration for its own sake.
 
 ## Billing is Resuming!
 
