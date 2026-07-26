@@ -2,6 +2,8 @@
 
 **This outlines our no-nonsense approach to support.**
 
+## Email is not really Working
+
 Email, in today's world, has become a huge bottleneck to client success.
 
 You’d have to be living under a rock not to notice how big this problem has become.
@@ -11,6 +13,25 @@ Honestly, it’s so frustrating for us that we plan to use [Flow](/flowshell) to
 Let’s face it—email is an absolute chore. There’s so much unsolicited, fake communication that it makes it hard to see what actually matters.
 
 Many customers have historically preferred to email anonymous addresses rather than have clear, human communication. This is no longer accepted.
+
+## But our Organization Insists on Email
+
+Yes yes yes. We hear that and point out that it's back in the day a lot of folks
+were resistent to using newer and more modern forms of communication. That chap
+Alexander Bell invented that new fangled Telephone thing and a lot of respectable
+business leaders of the time purportedly said: 
+
+>"There is absolutely no way we're going to use this new-fangled 'telephone' technology. We don't trust it. 
+It's not professional! We'll continue communicating the way we've always done it—using tried-and-true, proven methods like carrier pigeons and smoke signals. We understand those technologies."
+— Undisclosed VP of Operations, circa 1890
+
+We understand there might be a little organizational inertia but we encourage you
+to embrace these technologies which have been around close to 20 years now and are
+easily available for free on the smart phones you all have no choice but to own.
+
+You even run Whatsapp on your computer but admittedly not likely the one your boss gives you.
+
+## Our Support Philosophy
 
 **Please carefully review the information on our website, then use WhatsApp or iMessage to contact Eliot or Julian.** Communicate kindly and respectfully—respect gets respect, and you will be helped.  
 If you really can’t stand our matter-of-fact, down-to-earth communication style, you can always hire an affiliated Iguana consultant. But, honestly, Iguana is so stable that unless you’re doing something questionable, like running the ‘high availability’ version of Iguana (it’s unreliable—read below), Iguana is a tank that just keeps going.
