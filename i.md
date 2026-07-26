@@ -28,7 +28,7 @@ Exceptional performance sometimes means making uncomfortable changes, but that i
 - [Information on how to get support](support.md). Unfortunately, email communication has degraded, so we encourage other forms of communication.
 - [Get license codes right here.](license.md)
 - [Product Downloads](downloads.md)
-- [Billing processes are being optimized.](business.md)
+- [Billing processes are being optimized.](billing.md)
 - [Chameleon Customers: Please note, Secure Sockets will be mandatory in 2026](chameleon/i.md)
 
 This website is a major part of setting up new infrastructure for the business. We used to use [HubSpot](why/hubspot.md). Currently, the implementation is bootstrapped in PHP, but it will be redone with [Flow](/flowshell) in time.
