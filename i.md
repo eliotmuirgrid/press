@@ -25,9 +25,9 @@ Exceptional performance sometimes means making uncomfortable changes, but that i
 ## Main Resources
 
 - [Product Documentation](documentation.md)
-- [Information on how to get support](quality/email.md). Unfortunately, email communication has degraded, so we encourage other forms of communication.
+- [Information on how to get support](support.md). Unfortunately, email communication has degraded, so we encourage other forms of communication.
 - [Get license codes right here.](license.md)
-- [Product Downloads](products/downloads.md)
+- [Product Downloads](downloads.md)
 - [Billing processes are being optimized.](business.md)
 - [Chameleon Customers: Please note, Secure Sockets will be mandatory in 2026](chameleon/i.md)
 

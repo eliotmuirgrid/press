@@ -1,4 +1,4 @@
-# Downloads for Iguana and Chameleon
+# Download Iguana 
 
 Go to [https://github.com/eliotmuirgrid/downloads](https://github.com/eliotmuirgrid/downloads)
 to get them.
