@@ -4,7 +4,7 @@
 
 ## Flow is the logical successor to Iguana
 
-The idea is to take the best of Iguana 6 technology, combine it with some of the better ideas from Iguana X, and build a platform that is more dependable than Iguana 6.
+The idea is to take the best of Iguana 6 technology, combine it with some of the better ideas from Iguana X, and build a platform that is even more dependable, flexible and faster than Iguana 6.
 
 ## Flow is open source
 
