@@ -1,26 +1,20 @@
 # iNTERFACEWARE – Integration That Improves Business Performance
 
-We help organizations identify operational [bottlenecks](/system/toc/bottleneck) using the [Theory of Constraints](/system/toc), delivering measurable business improvements rather than integrating for its own sake.
+We help organizations identify and remove operational bottlenecks using the [Theory of Constraints](/system/toc). The goal isn't integration for its own sake—it's measurable business improvement.
 
-At iNTERFACEWARE, we help our clients think more clearly, often using analogies from everyday life to make key concepts easy for everyone to understand.
+Complexity is the enemy of performance. Often the fastest way to improve a business isn't to add more technology, but to [remove processes, systems, and solutions](/system/remove) that no longer create value. Think of it as decluttering your business.
 
-We pride ourselves on challenging our clients—sometimes even shocking them. This approach is helpful, as breaking out of conventional thought processes enables us to achieve exceptional business success.
+We challenge conventional thinking, using simple analogies to explain complex ideas. Sometimes the right answer is uncomfortable—but meaningful improvement rarely comes from doing what everyone else does.
 
-Sometimes, rather than integrating everything, the first thing every business should consider is what to remove from their system. The easiest way to improve a business is by removing processes, solutions, technologies and yes even people that are **not working**.
+We value substance over appearance. This website is intentionally simple because clarity matters more than polish.
 
-Think of it as "[decluttering your business](/system/remove)" to reduce complexity and entropy—much in the same way you can simplify your home by removing things that no longer serve you.
+## Built on Iguana. Moving Forward with Flow.
 
-We value substance over sizzle. This website is deliberately simple; clarity is more important than illusion.
+Iguana 6 remains the foundation of our production business. It's future, however, is [Flow](/flow): a platform designed to optimize not only integration, but the way software is designed, built, and improved.
 
-## Iguana 6 is the Solid Core of our Current Business
+We're applying Flow to our own business first, refining it through real-world use before introducing it to customers. We believe the best way to prove technology is to rely on it ourselves.
 
-But our go forward focus is on what we call [Flow](/flowshell) technology. Flow is more than just optimizing the process of integration—it's about optimizing the performance of development itself.
-
-Any organization that truly seeks to dominate its market will need to implement the [Theory of Constraints](/system/toc). It's impossible to achieve that by piecing together half-completed "off the shelf" (i.e., stale, half-baked, and ineffective) solutions.
-
-This is why Flow needs to exist. But we're not looking to beta test Flow on clients; we are using it ourselves to optimize all of our own business processes, applying the [Theory of Constraints](/system/toc).
-
-Exceptional performance sometimes means making [uncomfortable changes](/system/extreme), but that is necessary for businesses that simply want to destroy their competition.
+Businesses that consistently outperform their competitors don't optimize everything—they [optimize the constraint](/system/toc/bottleneck). That's the philosophy behind everything we build.
 
 ## Main Resources
 
@@ -31,15 +25,11 @@ Exceptional performance sometimes means making [uncomfortable changes](/system/e
 - [Billing processes are being optimized.](billing.md)
 - [Chameleon Customers: Please note, Secure Sockets will be mandatory in 2026](chameleon/i.md)
 
-This website is a major part of setting up new infrastructure for the business. We used to use [HubSpot](why/hubspot.md). Currently, the implementation is bootstrapped in PHP, but it will be redone with [Flow](/flowshell) in days or weeks (I won't commit to a timeline but it will happen!)
+This website is built with [Flow Publish](/flow/publish), the first application of the Flow platform. It also represents the first step in the [long-term evolution of Iguana 6, allowing customers to adopt new technology gradually and safely](/flow/aiguana).
 
-I am focusing on what is most important and applying the [Theory of Constraints](/system/toc). My excessive focus on social issues has become a constraint; I need to focus on [Flow](/flowshell).
+Our mission hasn't changed:
 
-Enjoy the simplicity and information-richness of our new website.
-
-The mission is as simple as it has always been:
-
-Allow customers to **control their data**.
+Help customers **control their data**.
 
 Enjoy,
 
