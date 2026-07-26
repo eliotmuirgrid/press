@@ -1,5 +1,7 @@
 # Business Focus
 
+![](bottleneck.png)
+
 At their core, all businesses—regardless of industry or scale—face the same fundamental challenges:
 
 - **Customer Acquisition:** How do we attract and win new customers?
