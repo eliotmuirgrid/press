@@ -11,7 +11,3 @@ But let me be clear: no CEO should ever allow an employee to have sole control o
 When I finally took over the account, I found a huge mess—a lot had been added over time, and almost nothing had ever been removed. It took a long time to clean it up.
 
 This is a critical part of your brand. One day, I want to develop technology that will streamline requests from those I trust to modify my DNS, but still leave me in control.
-
-It's the same with [banking](banking.md). It should be possible for a CEO to be the only person that truly controls the bank account.
-
-Do not let anyone put their hand in your pocket.
