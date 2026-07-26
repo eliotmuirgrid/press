@@ -1,6 +1,6 @@
 # Billing - Simplified
 
-iNTERFACEWARE is resuming billing and returning to standard business operations after a recent pause. While we plan to automate billing in the future, invoices will be sent manually for now, until our infrastructure is updated.
+iNTERFACEWARE is resuming billing and returning to standard business operations after a recent pause. While we plan to automate billing in the future, invoices will be sent manually for now, until our infrastructure is updated.  [Paul Gannon](/people/paul) is spearheading this effort, diligently using our old infra-structure until it's replaced with better new infrastructure based on [Flow](/flowshell).
 
 **What's changing?**  
 We’re moving away from our old model of highly customized service, contracts, and support. These processes had become overly manual and time-consuming, but with Iguana—the dependable core product—such complexity is no longer needed.
