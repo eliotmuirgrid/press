@@ -1,5 +1,12 @@
 # Pricing
 
+We used to have pricing that was completely disconnected from business value.  We had
+confusing charts that made it almost impossible for a customer to figure out and nothing
+really made much sense.  
+
+So now we have a much more straightforward process and actually matches with how business
+works.
+
 ![](pricing.png)
 
 ## **The Value-Driven Approach to Pricing**
