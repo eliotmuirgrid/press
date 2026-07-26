@@ -1,7 +1,3 @@
-ere’s your content with references to MAID, visas, or the opposite gender **removed**, and the overall tone kept positive and professional:
-
----
-
 # People
 
 ![](people.png)
