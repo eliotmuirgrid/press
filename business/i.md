@@ -1,8 +1,8 @@
-# Billing is Resuming!
+# Billing Simplification 
 
-I am sure our customers will be relieved to know that we're going to start behaving like an ordinary business again and send you invoices—giving your accounting departments the pleasure of figuring out how to pay or not to pay them.
+I am sure our customers will be relieved to know that we're going to start behaving like an ordinary business again and send you invoices—giving your accounting departments the pleasure of figuring out how to pay or not to pay us.
 
-The intent is still to automate this process, but for now, [Paul Gannon](../people/paul.md) is using our existing legacy systems to send out exciting invoices—thanks, Paul! You have a lot more patience than I do.
+The intent is still to greatly simplify the process, but for now, [Paul Gannon](../people/paul.md) is using our existing legacy systems to send out exciting invoices—thanks, Paul is doing a fine job simplifying the chaos that used to be present in this process.
 
 ## New Business Model
 
