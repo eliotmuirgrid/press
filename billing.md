@@ -1,6 +1,6 @@
-# Billing Update
+# Billing 
 
-iNTERFACEWARE is returning to standard business operations. We’re excited to announce that we are transitioning to our new billing platform, **[Flow Money/(/flow/money)**, to streamline our processes. We will be gradually switching over to this updated infrastructure. [Paul Gannon](/people/paul) is leading this initiative.
+iNTERFACEWARE is returning to standard business operations. We’re excited to announce that we are transitioning to our new billing platform, **[Flow Money](/flow/money)**, to streamline our processes. We will be gradually switching over to this updated infrastructure. [Paul Gannon](/people/paul) is leading this initiative.
 
 We are excited as a team to implement this new approach which one of number innovations
 that we want to bring to market.
