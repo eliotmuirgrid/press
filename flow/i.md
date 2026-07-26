@@ -1,41 +1,43 @@
 # Flow
 
-## Let's deal with SPAM
+![](i.png)
 
-This part of my site is full of lots of technical details about my Flow framework tool but I
-realize no one is that interested!  But everyone is overwhelmed with email spam and that is
-going to be my first application of this technology.  
+## Flow is the logical successor to Iguana
 
-Stay tuned!
+The idea is to take the best of Iguana 6 technology and some of the better ideas from Iguana X, and build a platform that is more dependable than Iguana 6.
 
-## Installation Instructions
+## Flow is open source
 
-To install it, go here for instructions:
+Flow code is being developed as an open source technology. It's actually a lot more
+versatile what what Iguana itself could do.
 
-[Explore FlowLua on GitHub](https://github.com/eliotmuirgrid/flow)
+## Flow is based on the same core technologies as Iguana
 
-## Boring Technical Details that only Eliot Really Cares About (ha ha)
+C++, Lua, and Git combined together to make a robust platform. Customers are actually
+able to see the C++ code and the Lua code and the platform will encourage them to learn
+both meaning there are no limits to what can be done with this technology.
 
-Compilation is currently only supported on Linux and Mac, but the cool thing is the same binary works on all operating systems because it uses Cosmopolitan.
+## What is the migration path?
 
-This tool is command-line oriented.
+Flow needs to mature first, but the technology is essentially delivered as small cross-platform binaries which can be monitored and controlled by Iguana 6.
 
-The command line isn’t bad—it’s just historically cluttered, with countless tools and inconsistent conventions that make it hard to learn and remember.
+It addresses a huge problem with Iguana 6 upgrades: upgrading was always massively risky. An upgrade would consist of changing every interface at once, which was absolute lunacy in an enterprise environment.
 
-I started working on **FlowShell** even before my radical business restructuring.  
-Automation is essential. I started with zsh and gradually built small abstractions whenever I forgot commands or had to repeat tasks. These improvements grew into **FlowShell**—a tool designed to make Unix easier, not to replace it (except that, eventually, it will become something different from Unix).
+No sane customer would ever want to do it, and it's not surprising given the risk involved.
 
-FlowShell is intended to guide users toward their goals without requiring them to memorize arcane command syntax. Before releasing it widely, I'll clean up my personal shortcuts to ensure a streamlined, reusable tool. I haven’t done that yet—it’s still messy!
+## Flow technology eliminates that risk
 
-FlowShell was prototyped in an obscure language called zsh. Don’t worry about it—I’m porting everything over to Lua, and then we can forget about zsh.
+Each interface ceases to be part of the same process. Instead, Flow applications are always delivered as a single binary that works on any operating system. That binary will expose a standards-based HTTPS interface to Iguana 6, allowing the Flow binary to be seamlessly controlled and logged via the same mechanisms as other Iguana channels—but it means interfaces can be upgraded one by one, rather than putting the entire set of interfaces at risk in a single upgrade.
 
-[Explore FlowShell on GitHub](https://github.com/eliotmuirgrid/flowshell)
+## The ultimate solution
 
-## A tiny beginning of something big.
+Once a customer has fully migrated to Flow-based interfaces, we'll have a replacement dashboard and logging technology with which the Flow binaries can integrate.
 
-The first screen shot of seeing Lua tracing in action.  It's rough but 
-it's a beginning.  And I will make it better.  Big things start small.  This
-is how ordinary humans will take control of their own data.
+It all makes for a much more robust and resilient architecture.
 
-![](trace.png)
+## It solves many problems caused by bad technology
+
+Oracle drivers, for instance, are notorious for crashing the applications that use them. This way, the overall interface engine is never exposed to an Oracle driver. Instead, only the Flow binary is exposed.
+
+The same goes for dangerously insecure technologies like HTTP2, which we jokingly refer to as the "Spyware" edition of HTTP because it's so complicated and has a lot of security vulnerabilities. In this way, clients who have no choice but to deal with these legacy technologies can at least contain their exposure—preferably on machines which run these technologies in a contained way, thus insulating the overall environment from these risks.
 
