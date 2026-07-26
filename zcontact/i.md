@@ -1,5 +1,7 @@
 # Contact
 
+![](contact.png)
+
 ## Eliot Muir — Development, Strategy, and Cat Jokes
 
 **Best contact:**  
