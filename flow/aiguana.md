@@ -1,4 +1,4 @@
-# How will Flow with Iguana 6?
+# Iguana 6 Migration
 
 ![](iguana.png)
 
