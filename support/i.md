@@ -8,7 +8,7 @@
 
 Email has become an unexpected bottleneck in client success.
 
-Nobody can miss how challenging email management has become. We feel it too—which is why we’re building a new command-line tool called [Flow Communicate](/flow/protect) to help ourselves manage email overload. If it works well for us, we’re excited to share it with all our clients.
+Nobody can miss how challenging email management has become. We feel it too—which is why we’re building a new command-line tool called [Flow Protect](/flow/protect) to help ourselves manage email overload. If it works well for us, we’re excited to share it with all our clients.
 
 Let’s be honest—email can be overwhelming. The flood of unsolicited and irrelevant messages makes it hard to focus on what actually matters.
 

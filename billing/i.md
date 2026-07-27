@@ -2,18 +2,18 @@
 
 ![](billing.png)
 
-iNTERFACEWARE is returning to standard business operations. We’re excited to announce that we are transitioning to our new billing platform, **[Flow Money](/flow/money)**, to streamline our processes. We will be gradually switching over to this updated infrastructure. [Paul Gannon](/people/paul) is leading this initiative.
+We’re excited to announce that we are transitioning to our new billing platform, [Flow Money](/flow/money), to streamline our processes. We will be gradually switching over to this updated infrastructure. [Paul Gannon](/people/paul) is leading this initiative.
 
 We are excited as a team to implement this new approach, which is one of a number of innovations we want to bring to market.
 
 **What’s changing?**  
-We’re moving away from our old model of customized service arrangements, bespoke contracts, and manual support. These processes had become slow and labor-intensive. With Iguana as our proven, reliable core product, this level of complexity is no longer necessary.
+We’re moving away from our old model of customized service arrangements, bespoke contracts, and elaborate procurement. These processes had become slow and labor-intensive. With Iguana as our proven, reliable core product, this level of complexity is no longer necessary.
 
 **Why are we making this change?**  
 Our founder, Eliot Muir, has emphasized that excess management and back-and-forth communication were hindering our efficiency and distracting us from our main purpose: delivering dependable, effective technology. By simplifying our operations and team structure, we’re refocusing on stability, transparency, and technical excellence.
 
 **About Iguana**  
-Iguana fills a critical need by securely moving and transforming data in healthcare and enterprise environments. Unlike other middleware solutions bogged down by bureaucracy, Iguana “just works,” requiring minimal intervention—so your data keeps flowing without hassle.
+Iguana fills a critical need by securely moving and transforming data in healthcare and enterprise environments. Unlike other middleware solutions bogged down by heavy technical debt, Iguana “just works,” requiring minimal intervention—so your data keeps flowing without hassle.
 
 **What to expect going forward:**  
 - **One product, unified terms:** All customers receive the same reliable product and support under the same clear terms.
