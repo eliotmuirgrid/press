@@ -1,12 +1,14 @@
 # Downloads
 
+![](download.png)
+
 We choose to store our downloads using public infrastructure:
 
 [https://github.com/eliotmuirgrid/downloads](https://github.com/eliotmuirgrid/downloads)
 
 Like everything at iNTERFACEWARE today, the **only** way we store any kind of critical digital resource is by using Git.
 
-This is because Git provides natural resilience, ensuring that important resources—such as installers—are never lost. We actively encourage our customers to 'fork' this repository so they can always have access to the resources they need.
+This is because [Git provides natural resilience](/tconcepts/science/computer/git), ensuring that important resources—such as installers—are never lost. We actively encourage our customers to '[fork](/tconcepts/science/computer/git/fork)' this repository so they can always have access to the resources they need.
 
 It is willful ignorance to think we can always rely on the infrastructure of a single organization for any digital resource. Have you ever noticed that when you 'buy' a movie on Apple TV or Prime, it can later disappear from your collection?
 
