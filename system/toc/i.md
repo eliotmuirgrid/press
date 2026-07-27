@@ -69,17 +69,11 @@ The first time I read
 
 It’s not exactly new, and most organizations don’t have it top of mind.
 
-## How Did I Find It?
+## How Did Eliot Find It?
 
-It began when I read [**The Machine** by Justin Roff-Marsh](https://www.amazon.co.uk/Machine-Justin-Roff-Marsh/dp/1626342245). Justin gave a talk at a Peerscale conference I attended in Toronto, during one of the annual retreats.
+It began when Eliot read [**The Machine** by Justin Roff-Marsh](/system/toc/machine). Justin gave a talk at a Peerscale conference I attended in Toronto, during one of the annual retreats.
 
 There was a huge uproar among the sales leaders, who absolutely hated Justin’s ideas.
 
 Justin had essentially applied the Theory of Constraints to sales, which clashed directly with the belief systems many sales leaders held dear.
-
-## No, I Don’t Make Money from Book Sales
-
-Let’s be real.
-
-No, I do not earn a cent from mentioning this book—the author is dead, and it’s simply the most compelling book on managing systems I’ve ever read.
 
