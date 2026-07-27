@@ -1,5 +1,7 @@
 # Systems 
 
+![](system.png)
+
 Knowledge is power. Systems thinking is at the heart of everything we do here at iNTERFACEWARE.
 
 It's the secret to extreme business performance.
