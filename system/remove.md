@@ -1,4 +1,6 @@
-# System - Reduce Entropy
+# Remove
+
+**The most important first step in system improvement is to remove unnecessary elements.**
 
 It’s remarkable how universally true it is that the easiest way to reduce entropy in a system is to remove unnecessary elements.
 
@@ -10,9 +12,6 @@ This is more functional:
 
 ![](less.jpg)
 
-The same principle applies beautifully to making stable, safe, and secure code. So much effort goes into explaining what *not* to use, but in the end, it’s worth it. Less really is more.
 
-People too often overlook the obvious: just because something seems fun or convenient doesn’t mean it’s a good idea. Step back and look at the holistic, long-term picture. The psychological fallout of bad decisions is a bit harder to declutter.
-
-People often overlook the obvious: just because something seems fun or convenient doesn’t mean it’s a good idea. Step back and consider the holistic, long-term picture. Whether it’s in code, business systems, or even personal habits, clutter—physical or conceptual—can create long-term challenges if it’s not recognized and addressed early. Recognizing patterns that don’t serve us is the first step to building stable, resilient systems.
+> The same principle applies to building stable code and organizations: less is more. Just because something is convenient doesn't mean it's a good idea. Step back, think long term, and remove unnecessary complexity. Whether in software, business, or life, the hardest clutter to remove is often the bad decisions we never needed to make.
 
