@@ -10,7 +10,7 @@ This is because Git provides natural resilience, ensuring that important resourc
 
 It is willful ignorance to think we can always rely on the infrastructure of a single organization for any digital resource. Have you ever noticed that when you 'buy' a movie on Apple TV or Prime, it can later disappear from your collection?
 
-Organizations do disappear, and iNTERFACEWARE is committed to open-sourcing most of our technology moving forward so that clients always have security when it comes to our technology. Escrow is not enough; the knowledge of how to compile and work with the code that forms the foundation of our products is crucial to distribute.
+Organizations do disappear, and iNTERFACEWARE is committed to open-sourcing our technology moving forward so that clients always have security when it comes to our technology. Escrow is not enough; the knowledge of how to compile and work with the code that forms the foundation of our products is crucial to distribute.
 
 At iNTERFACEWARE, we aim to lead by example and show our clients how to maintain robust infrastructure. Git is a huge part of that strategy. If something is worth storing, we store it in Git.
 
