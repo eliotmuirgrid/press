@@ -20,5 +20,5 @@ Going forward, I’m seeking transformative partnerships—fewer layers of compl
 
 MD Anderson, if you’re ready to engage as a true partner and tackle [constraints head-on](/system/toc), let’s rebuild this relationship. If not, it’s time to part ways. Your call.
 
-Sometimes, it’s perfectly okay to show large brand-name clients the door. See [Billing](/billing/extreme) and [Accenture/Verizon].
+Sometimes, it’s perfectly okay to show large brand-name clients the door. See [Billing](/billing/extreme) and [Accenture/Verizon](big.md).
 
