@@ -1,4 +1,4 @@
-# Physics Extremes
+# Physics 
 
 Newtonian mechanics are an exceptionally useful engineering tool, accurately describing the motion of everyday objects. But at the boundaries of experience—when we push to the extremes—these classic laws begin to break down, and new rules emerge.
 
