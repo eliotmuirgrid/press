@@ -21,3 +21,5 @@ Some useful commands:
 - [`press:open`](https://github.com/eliotmuirgrid/flowshell/blob/master/commands/press%3Aopen)  
 - [`git:publish`](https://github.com/eliotmuirgrid/flowshell/blob/master/commands/git%3Apublish)
 
+Ed Worthington and his team put the PHP together for me in record time - faster than I could have done myself.  He and his
+team are ultra competent.  It's not there fault that PHP has some issues in the longer term.
