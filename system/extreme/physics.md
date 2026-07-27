@@ -6,7 +6,7 @@ Newtonian mechanics are an exceptionally useful engineering tool, accurately des
 
 For most everyday speeds and masses, Newton’s laws work perfectly well. However, as objects approach the speed of light or involve immense masses—such as those found near black holes—Newtonian physics is no longer adequate. Here, Einstein’s theory of relativity takes over, and space and time themselves begin to warp and stretch. The familiar rules of physics no longer apply; the universe behaves in unexpected ways.
 
-![](hole.avif)
+![](hole.jpg)
 
 
 ## At the Extremely Small
