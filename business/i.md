@@ -1,4 +1,4 @@
-# Business Focus
+# Business 
 
 ![](bottleneck.png)
 
