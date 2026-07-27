@@ -20,10 +20,8 @@ We’re still working on gaining access to the **Iguana X documentation**, which
   [https://interfaceware.com/documentation](https://interfaceware.com/documentation)
 - **Confluence Iguana X Knowledge Base (public overview):**  
   [https://interfaceware.atlassian.net/wiki/spaces/IXB/overview?homepageId=2450522192](https://interfaceware.atlassian.net/wiki/spaces/IXB/overview?homepageId=2450522192)
-- **Specific Iguana X Confluence page (restricted):**  
+- **Specific Iguana X Confluence page (public):**  
   [https://interfaceware.atlassian.net/wiki/spaces/CSHC/pages/2894954498/IguanaX](https://interfaceware.atlassian.net/wiki/spaces/CSHC/pages/2894954498/IguanaX)
-
-Currently, we're having trouble figuring out how to make the Confluence content (especially the [CSHC IguanaX space](https://interfaceware.atlassian.net/wiki/spaces/CSHC/pages/2894954498/IguanaX)) more widely accessible, or how to migrate it.
 
 ---
 
