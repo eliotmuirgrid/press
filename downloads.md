@@ -20,5 +20,5 @@ For [license codes, they are available here](license.md).
 
 A historical thanks to [Colin McGrath](https://www.linkedin.com/in/colinmcgr4th/), who was not just a good engineer, but also a genuinely decent human being. In hindsight, it’s clear that someone like him would have stepped up.
 
-Because Iguana X never matured into a stable production platform, we open-sourced it. It’s fun to play with, but going forward, the plan is to turn [Flow](/flow/iguana) into the long-term replacement for Iguana. Flow will incorporate the best ideas of Iguana X, but none of its design mistakes.
+Because Iguana X never matured into a stable production platform, we open-sourced it. It’s fun to play with, but going forward, the plan is to turn [Flow](/flow/aiguana) into the long-term replacement for Iguana. Flow will incorporate the best ideas of Iguana X, but none of its design mistakes.
 
