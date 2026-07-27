@@ -19,5 +19,5 @@ We operate with a zero-trust security model. Each core contributor is fully acco
 
 We consult for a select clientele—only engaging with those who share the drive and mindset to dominate their markets. Our philosophy is unwavering: eliminate unnecessary complexity, maintain relentless focus, and always adhere to the [Theory of Constraints](/system/toc).
 
-This is not just a more efficient way to do business—it is a demonstrably more profitable one. Today, we are on track to achieve over three times the net profit after tax compared to our previous structure. Our operation is proudly run from our home base in the Cayman Islands.
+It is a very compelling way to do business. Less friction. More cash flow. More freedom. All the things that every business owner dreamed of when they began their entrepreneurial journey.
 
