@@ -25,7 +25,7 @@ Businesses that consistently outperform their competitors don't optimize everyth
 - [Get license codes right here.](license.md)
 - [Product Downloads](downloads.md)
 - [Billing processes are being optimized.](billing.md)
-- [Chameleon Customers: Please note, Secure Sockets will be mandatory in 2026](chameleon/i.md)
+- [Chameleon Customers: Please note, Secure Sockets will be mandatory in 2026](/documentation/chameleon/security)
 
 This website is built with [Flow Publish](/flow/publish), the first application of the Flow platform. It also represents the first step in the [long-term evolution of Iguana 6, allowing customers to adopt new technology gradually and safely](/flow/aiguana).
 
