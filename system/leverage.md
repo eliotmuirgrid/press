@@ -26,9 +26,9 @@ It's okay—Eliot plans to apply [Flow Communicate](/flow/communicate) to help r
 
 Of course, with all that rapid output, there’s… debris. Enter AI: the ever-patient, never-sarcastic ghostwriter, sweeping up Eliot’s typos and run-ons, and occasionally suggesting better metaphors. Suddenly, readable prose appeared where enthusiastic chaos once reigned.
 
-## Flow making it easier for Eliot to write code
+## Eliot using Flow to make it easier to write code 
 
-Next up: tackling actual “work.” Here, the Flow framework flexes its muscles. Sure, Eliot’s hands are flying, his voice is dictating, and AI is proofing, but if the underlying code-writing system handles all the grindingly repetitive stuff with 100% deterministic code that's significantly better than using AI which can sometimes behave like a humourous random number generator. 
+Next up: tackling actual “work.” Here, the [Flow framework](/flow) flexes its muscles. Sure, Eliot’s hands are flying, his voice is dictating, and AI is proofing, but if the underlying code-writing system handles all the grindingly repetitive stuff with 100% deterministic code that's significantly better than using AI which can sometimes behave like a humourous random number generator. 
 
 It's little bit like the difference between a 100% reliable paid professional sex worker who can be relied upon 100%
 of the time to deliver service versus Eliot's string of 'partners' who while providing a lot of enjoyable fun have thus
