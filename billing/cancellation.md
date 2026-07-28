@@ -1,4 +1,4 @@
-# Cancellation and Migration Policy
+# Cancellation Policy
 
 We fully support a competitive marketplace and respect every customer's right to choose the integration platform that best meets their needs.
 
@@ -17,5 +17,5 @@ Following verification, we will provide the documentation required to formally c
 
 Please note that organizations choosing to continue running unsupported versions of Iguana after ending maintenance will no longer receive software updates, bug fixes, or security patches. As a result, we may require written confirmation from your insurer acknowledging that they accept responsibility for the operational and cybersecurity risks associated with running unsupported software within your environment.
 
-Our objective is not to make migration difficult. It is simply to ensure that organizations either maintain an appropriately licensed production deployment or complete a genuine migration to an alternative platform.
+Our objective is not to make migration difficult. It is simply to ensure that organizations either maintain an appropriately licensed production deployment or complete a genuine migration to an alternative platform and are not lazy and just stop paying.
 

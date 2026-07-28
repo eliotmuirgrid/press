@@ -1,54 +1,58 @@
-# Flow
+![](flow.png)
 
-![](i.png)
+## Flow is a Bigger Idea than Iguana
 
-## Flow is the logical successor to Iguana
+If we are building new technology, why create something that solves the same problem as Iguana? Flow is a much bigger idea. It’s the foundation of a technology that will allow our customers and affiliates to tackle really big, really important problems—the kinds of constraints that limit growth.
 
-The idea is to take the best of Iguana 6 technology, combine it with some of the better ideas from Iguana X, and build a platform that is even more dependable, flexible and faster than Iguana 6.
+Flow is the very embodiment of the [Theory of Constraints](/system/toc) expressed in software.
 
-## Flow is open source
+## Flow is Open Source
 
-Flow is being developed as open source technology. It is actually much more versatile than what Iguana itself could do.
+Flow is being developed as open source technology. It has to be this way—otherwise, customers would have no way to eliminate key bottlenecks that could prevent them from implementing the Theory of Constraints.
 
-## Flow is based on the same core technologies as Iguana
+Flow solves the issue found in most closed-source vendor solutions, which often become dead ends. Customers eventually encounter bottlenecks due to missing functionality in the vendor’s product, with no way to resolve them.
 
-C++, Lua, and Git are combined to create a robust platform. Customers can view both the C++ and Lua code, and the platform encourages them to learn both. This means there are no limits to what can be done with this technology.
+## Flow is Based on the Same Core Technologies as Iguana
 
-## What is the migration path?
+C++, Lua, and Git are combined to create a robust platform. Customers can access both the C++ and Lua code, and the platform encourages them to learn both. This means there are no limits to what can be achieved with this technology.
+
+Flow can do things that would be inconceivable with Iguana. Iguana was a great product, but it limited customers to coding only in Lua. With Flow, you can extend your codebase using a low-level systems language like C++, making Flow much more powerful.
+
+## What is the Migration Path?
 
 Flow needs to mature first, but the technology is essentially delivered as small, cross-platform binaries which can be monitored and controlled by Iguana 6.
 
-It addresses a major problem with Iguana 6 upgrades: upgrading was always extremely risky. An upgrade consisted of changing every interface at once, which was absolute lunacy in an enterprise environment.
+This addresses a major problem with Iguana 6 upgrades: upgrading was always extremely risky, as it involved changing every interface at once—an approach that is absolutely inadvisable in an enterprise environment.
 
-No sane customer would ever want to do that, and it's not surprising given the risk involved.
+No sane customer would want to do that, and the risk involved was significant.
 
-## Flow technology eliminates that risk
+## Flow Technology Eliminates That Risk
 
-Each interface is no longer part of the same process. Instead, Flow applications are always delivered as a single binary that works on any operating system. That binary exposes a standards-based HTTPS interface to Iguana 6, allowing the Flow binary to be seamlessly controlled and logged via the same mechanisms as other Iguana channels. This means interfaces can be upgraded one by one, rather than putting the entire set of interfaces at risk with a single upgrade.
+Each interface is no longer part of the same process. Instead, Flow applications are always delivered as a single binary that works on any operating system. That binary exposes a standards-based HTTPS interface to Iguana 6, allowing the Flow binary to be seamlessly controlled and logged through the same mechanisms as other Iguana channels. This means interfaces can now be upgraded one by one, rather than risking the entire set of interfaces with a single, sweeping upgrade.
 
-## The ultimate solution
+## The Ultimate Solution
 
-Once a customer has fully migrated to Flow-based interfaces, we’ll provide a replacement dashboard and logging technology with which Flow binaries can integrate.
+Once a customer has fully migrated to Flow-based interfaces, we’ll provide a replacement dashboard and logging technology that Flow binaries can integrate with.
 
 It all adds up to a much more robust and resilient architecture.
 
-## It solves many problems caused by bad technology
+## Solving Problems Created by Bad Technology
 
-Oracle drivers, for instance, are notorious for crashing the applications that use them. With Flow, the overall interface engine is never exposed to an Oracle driver—instead, only the Flow binary is exposed.
+Oracle drivers, for instance, are notorious for crashing the applications that use them. With Flow, the overall interface engine is never exposed to an Oracle driver—instead, only the Flow binary is.
 
-The same goes for dangerously insecure technologies like HTTP/2, which we jokingly refer to as the "Spyware" edition of HTTP because it’s so complicated and has so many security vulnerabilities. In this way, clients who have no choice but to deal with these legacy technologies can at least contain their exposure—preferably on machines that run these technologies in a contained manner, thus insulating the overall environment from these risks.
+The same goes for dangerously insecure technologies like HTTP/2, which we jokingly refer to as the “Spyware” edition of HTTP because it is so complicated and riddled with security vulnerabilities. This way, clients who have no choice but to work with these legacy technologies can at least contain their exposure—ideally on isolated machines—thus insulating the overall environment from these risks.
 
-## Will everything be open source?
+## Will Everything Be Open Source?
 
-No. Some parts of the technology will need to remain closed source for the practical reason that we actually want customers who will pay us money. Eliot did some early experiments during the initial restructuring and figured out that it's important to have some parts of your intellectual property that you hold back and sell for money.
+No. Some parts of the technology will need to remain closed source for the practical reason that we actually want customers who will pay us. During the early restructuring, Eliot ran some experiments and realized it’s important to retain certain parts of our intellectual property and offer them as paid products.
 
-For Flow, that will be the dashboard and logging system that will eventually replace Iguana 6. It will be a very nice product and provide a natural, safe migration path for users of Iguana 6.
+For Flow, that will be the dashboard and logging system that will eventually replace Iguana 6. It will be a high-quality product and provide a natural, safe migration path for Iguana 6 users.
 
-## Why would I pay?
+## Why Would I Pay?
 
-Well, it's generally unwise not to have technical support for a product that is part of your critical infrastructure. Also, because the Flow technology will evolve and grow, it generally helps to have a relationship that enables you, as a customer, to understand where the good versions of things are.
+It’s generally unwise to operate critical infrastructure without technical support. Additionally, as Flow technology evolves and grows, it’s helpful to have a relationship that allows you—as a customer—to understand which versions are stable and well-supported.
 
-That is pretty much how open source works. A lot of people who don't have terribly serious problems use the free stuff, but when you are dealing with something that is mission critical, you'd be pretty unwise not to pay for support—to make sure the software stays in a form that meets your needs.
+That’s essentially how open source works. Many users with less critical needs use the free version, but for something mission-critical, it’s wise to pay for support—to ensure your software remains reliable and up to date.
 
-Overall, this is a good compromise between commercial realities, while still making things open enough to guarantee long-term safety for users and iNTERFACEWARE alike.
+Overall, this approach strikes a good balance between commercial realities and openness, guaranteeing long-term safety for users and for iNTERFACEWARE alike
 

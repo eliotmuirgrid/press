@@ -1,6 +1,4 @@
-# Systems 
-
-![](system.png)
+![Systems](system.png)
 
 Knowledge is power. Systems thinking is at the heart of everything we do here at iNTERFACEWARE.
 

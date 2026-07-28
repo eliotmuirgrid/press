@@ -1,4 +1,6 @@
-# Chameleon - My first love
+# Chameleon - Eliot's first love
+
+In Eliot's words:
 
 And if I knew then, what I know now I would do it differently.  No unlike
 my first marriage (wow I really screwed that up!).

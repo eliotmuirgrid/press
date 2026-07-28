@@ -1,13 +1,14 @@
 # Banking
 
-**No CEO should ever allow an employee to control their bank account.**
+**No CEO should ever allow an employee to control the company’s bank account.**
 
-Unfortunately, current banking technology does not provide truly ironclad controls to prevent this. This is a problem we aim to solve.
+Unfortunately, current banking technology does not offer truly ironclad controls to prevent unauthorized access or misuse. This is a critical problem we aim to solve.
 
-Our solution takes an unconventional approach, integrating with banking systems using [Flow](/flowshell). By leveraging screen capture and simulating human interactions, we can securely extract data while maintaining proper oversight and control.
+Our solution takes an unconventional approach by integrating with banking systems through [Flow Money](/flow/money). By leveraging screen capture and simulating human interactions, we can securely extract data while maintaining oversight and control.
 
-Eliot was shocked by how many unnecessary expenses existed in his former Canadian company. Employees were using his money for frivolous purchases, such as opening Microsoft Azure accounts just to pad their resumes. The HR director, lacking real work, was subscribed to a host of unnecessary HR tools.
+Eliot was shocked by the number of unnecessary expenses in his previous Canadian company. Employees used company funds for frivolous purchases, such as opening Microsoft Azure accounts solely to pad their resumes. The HR director, lacking real responsibilities, subscribed to a slew of unnecessary HR tools.
 
-This endless litany of pointless expenses brought no real value to the business.
+These endless, pointless expenses brought no real value to the business.
 
-A CEO or founder should never give an employee control of their bank account—ever
+No CEO or founder should ever relinquish control of the company’s bank account to an employee—period.
+
