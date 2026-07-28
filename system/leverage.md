@@ -30,11 +30,7 @@ Of course, with all that rapid output, there’s… debris. Enter AI: the ever-p
 
 Next up: tackling actual “work.” Here, the [Flow framework](/flow) flexes its muscles. Sure, Eliot’s hands are flying, his voice is dictating, and AI is proofing, but if the underlying code-writing system handles all the grindingly repetitive stuff with 100% deterministic code that's significantly better than using AI which can sometimes behave like a humourous random number generator. 
 
-It's little bit like the difference between a 100% reliable paid professional sex worker who can be relied upon 100%
-of the time to deliver service versus Eliot's string of 'partners' who while providing a lot of enjoyable fun have thus
-so far not proven terribly reliable at all.  Probably an experience most humans - male and female can relate to.  Incidentally
-Eliot has never actually used professional sex worker technology but he can see the logic in it and can see why it
-was one of the first 'professional groups'.  Part of a time honoured tradition of human value exchange.  See [Flow Money](/flow/money).
+This is really key.  Eliot is already an order of magnitude or three faster than the average bear. This is about the most useful resource to optimize.
 
 ## Screen Capture Technology
 
