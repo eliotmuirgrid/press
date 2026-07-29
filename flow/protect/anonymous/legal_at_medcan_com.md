@@ -2,6 +2,8 @@
 
 **This page was automatically generated for [legal@medcan.com](mailto:legal@medcan.com) using [Flow Protect](/flow/protect).**
 
+For more information see [anonymous](../anonymous).
+
 You have reached this page because an email originating from an anonymous "team" address was detected. This is often indicative of organizational dysfunction, as a lack of individual accountability can undermine trust and efficiency.
 
 It is recommended that such practices be addressed, and that you consider reevaluating the roles of employees who choose to operate anonymously and avoid direct responsibility.
@@ -16,9 +18,13 @@ If you prefer anonymity, a career in government may be more aligned with your pr
 
 If you believe this notification has been issued in error or should be removed, please contact a human representative at iNTERFACEWARE using verified and direct communication methods. Identification will be required to proceed. This will require the use of modern communication technologies such as iMessage or WhatsApp. This will quickly be used to facilitate a ZOOM conversation. You'll need to have a government ID, such as a driver's license, passport, or health card, to verify your identity.
 
-Unless action is taken, this notice and related correspondence will be escalated to your CEO within 72 hours via a fully automated workflow. 
+This information has already been sent to your CEO via a fully automated workflow using [Flow Communicate](/flow/communicate).
 
-Human intervention is required to halt this process. [Flow Protect](/flow/protect) has assessed that your [CEO Shaun Francis](https://www.linkedin.com/in/shauncfrancis) is a believer in free market principles via his involvement in the Fraser Institute. Therefore, he is likely to realize that the cost savings from downsizing your team to one person could, in fact, be a worthwhile exercise.
+[Flow Protect](/flow/protect) has assessed that your [CEO Shaun Francis](https://www.linkedin.com/in/shauncfrancis) is a believer in free market principles via his involvement in the Fraser Institute. 
+
+Therefore he will strongly identify with [Eliot Muir our Founder and CEO who also deeply believes in the free market](https://www.linkedin.com/in/eliotmuir/).
+
+Therefore, he is likely to realize that the cost savings from downsizing your team to one person could, in fact, be a worthwhile exercise.
 
 This procedure reflects our new brand principle at **iw**: **less is more**.
 
