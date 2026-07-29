@@ -16,8 +16,6 @@ If you prefer anonymity, a career in government may be more aligned with your pr
 
 ![](legal_at_medcan_com.png)
 
-If you believe this notification has been issued in error or should be removed, please contact a human representative at iNTERFACEWARE using verified and direct communication methods. Identification will be required to proceed. This will require the use of modern communication technologies such as iMessage or WhatsApp. This will quickly be used to facilitate a ZOOM conversation. You'll need to have a government ID, such as a driver's license, passport, or health card, to verify your identity.
-
 This information has already been sent to your CEO via a fully automated workflow using [Flow Communicate](/flow/communicate).
 
 [Flow Protect](/flow/protect) has assessed that your [CEO Shaun Francis](https://www.linkedin.com/in/shauncfrancis) is a believer in free market principles via his involvement in the Fraser Institute. 
@@ -28,5 +26,6 @@ Therefore, he is likely to realize that the cost savings from downsizing your te
 
 This procedure reflects our new brand principle at **iw**: **less is more**.
 
-See [Staff](staff.md) for more thoughts on how your organization can be streamlined.  Probably not to the same degree. But your administration could be greatly simplified.  You are in effect free riding off the hard effort your founder has put into creating your organization.
+See [Staff](/system/remove/staff) for more thoughts on how your organization can be streamlined.  Probably not to the same degree. But your administration could be greatly simplified.  You are in effect free riding off the hard effort your founder has put into creating your organization.
 
+If you believe this notification has been issued in error or should be removed, please contact a human representative at iNTERFACEWARE using verified and direct communication methods. Identification will be required to proceed. This will require the use of modern communication technologies such as iMessage or WhatsApp. This will quickly be used to facilitate a ZOOM conversation. You'll need to have a government ID, such as a driver's license, passport, or health card, to verify your identity.
