@@ -12,7 +12,7 @@ objects for:
  - Datetime formats
 
 He said, screw all that!  Let's just have one object for everything and represent and
-change the'type' based on all of the above bollicks.
+change the'type' based on all of the above bollocks.
 
 As usual he thought he built the best thing since sliced bread with his clever way of
 representing JSON in a sweet way.
