@@ -20,11 +20,11 @@ That’s what’s going to happen to diamonds. At some point, the market will co
 
 Insurance is built on exactly the same principle. You’re not really selling certainty—you can’t. You’re selling confidence. You’re selling a promise. You’re selling a story that people hope they’ll never have to test.
 
-Cybersecurity is uninsurable. It’s a problem of scale. The industry is dependent on monocultures, creating a systematic risk that those monocultures will be compromised all at once.
+Cybersecurity is uninsurable. It’s a problem of scale. The industry is dependent on monocultures, creating a systemic risk that those monocultures will be compromised all at once.
 
 Take OpenSSL. It’s a huge vulnerability because everybody uses the same implementation everywhere. It has overwhelming market share, and it’s incorporated into devices that do not have any sort of upgrade mechanism.
 
-When failures happen, they’ll happen at a systematic global level, which will be completely uninsurable—a black swan event. A few of those, and the insurance industry will lose its appetite for insuring anything to do with cybersecurity. It’s essentially uninsurable.
+When failures happen, they’ll happen at a systemic global level, which will be completely uninsurable—a black swan event. A few of those, and the insurance industry will lose its appetite for insuring anything to do with cybersecurity. It’s essentially uninsurable.
 
 Instead, people are going to have to rely on actual engineering excellence to protect against cyber risk.
 
