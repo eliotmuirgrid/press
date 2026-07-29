@@ -1,6 +1,6 @@
 # Insurance 
 
-**Insurance is a protection packet except that unlike a real gangster they take your money and give you nothing tangible in return.** At least a old school mobster would maintain some form of local 'governance'.
+**Insurance is a protection racket except that unlike a real gangster they take your money and give you nothing tangible in return.** At least a old school mobster would maintain some form of local 'governance'.
 
 It sells something that, much of the time, has no tangible value until the worst day of your life. Then you discover the loopholes and realize that you were paying into something that had no value.
 
