@@ -4,7 +4,7 @@ Enterprise software has accumulated unnecessary complexity, with each applicatio
 
 ## Introduction to the Unified Archive Architecture
 
-Instead of treating an archive as something that is unpacked during installation it would be like Iguana X did - just one file
+Instead of treating an archive as something that is unpacked during installation it would be like Iguana X does - just one file
 that is not unpacked.  It just loads the dependencies from with the file itself.
 
 ### The Unified Archive Model
