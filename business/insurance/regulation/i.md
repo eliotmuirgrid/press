@@ -14,7 +14,7 @@ Why is that? I cannot believe how many people missed some really key events that
 
 I wanted mine—I got three doses of the Pfizer one, one of my valued customers. Pfizer, like all of us, is a distinctly grey organization.
 
-Neither good nor evil, merely a large corporation driven by economic incentives.  It will respond to whatever incentives exist.  I am not about to rant about big farma.  No I just want to focus on the technology and what the [implications of mRNA vaccines](mrna.md) are.
+Neither good nor evil, merely a large corporation driven by economic incentives.  It will respond to whatever incentives exist.  I am not about to rant about big pharma.  No I just want to focus on the technology and what the [implications of mRNA vaccines](mrna.md) are.
 
 No, let’s focus on what was truly interesting in a truly frightening way. But let’s be honest—once technology is discovered, it cannot be undiscovered. We have to deal with the consequences.
 
