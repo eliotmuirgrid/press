@@ -30,7 +30,7 @@ will not change. And this is a good thing.
 
 ## Solution
 
-Listen to me. I wrote the most performent and reliable middleware transaction engine
+Listen to me. I wrote the most performant and reliable middleware transaction engine
 in global healthcare. Still unmatched today in terms of stability and performance.  Sad
 but true. These are techniques I used to achieve that.  Today I know more than I did then.
 
