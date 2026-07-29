@@ -16,7 +16,7 @@ If you prefer anonymity, a career in government may be more aligned with your pr
 
 ![](legal_at_medcan_com.png)
 
-This information has already been sent to your CEO via a fully automated workflow using [Flow Communicate](/flow/communicate).
+This information will be sent to your CEO via a fully automated workflow using [Flow Communicate](/flow/communicate).
 
 [Flow Protect](/flow/protect) has assessed that your [CEO Shaun Francis](https://www.linkedin.com/in/shauncfrancis) is a believer in free market principles via his involvement in the Fraser Institute. 
 
