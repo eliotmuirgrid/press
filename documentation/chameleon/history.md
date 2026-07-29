@@ -2,7 +2,7 @@
 
 In Eliot's words:
 
-And if I knew then, what I know now I would do it differently.  No unlike
+And if I knew then, what I know now I would do it differently.  Not unlike
 my first marriage (wow I really screwed that up!).
 
 Chameleon was my first product and I started thinking about it in 1995
