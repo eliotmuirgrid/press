@@ -16,7 +16,8 @@ Every business faces [unique constraints](/system/toc), and no vendor can antici
 We’re shifting our focus—not by trying to serve everyone, but by partnering with a select group of ambitious companies in each industry who are committed to becoming true leaders. With these partners, we work to surface and remove the *real* obstacles holding them back. That could mean bold process redesign. Sometimes, it means stripping out redundant technology. And sometimes, it even means making tough internal changes. These aren’t easy conversations, but genuine transformation never is.
 
 This isn’t a path for everyone. Many prefer the **illusion of safety through incremental change** and ever more features. That’s understandable.  
-But the companies willing to challenge assumptions, simplify relentlessly, and address their real bottlenecks are the ones that consistently outpace their competitors.
+
+But the organizations willing to challenge assumptions, simplify relentlessly, and address their real bottlenecks are the ones that consistently outpace their competitors.
 
 We’re looking to collaborate with those ready to reject complexity for the sake of real, sustainable progress. Together, we can build organizations that are clearer, faster, and far more competitive—not by endlessly adding to the stack, but by focusing on what truly matters.
 
