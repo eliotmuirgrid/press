@@ -1,16 +1,22 @@
-# The Future of Integration
+# Consulting
 
-Traditional integration engines have become commodities, and too many vendors respond by layering on new features, products, and complexity in a desperate attempt to stand out. But this approach is fundamentally misguided. More software almost always brings more friction: it raises costs, bloats organizations, and ultimately slows them down.
+**Iguana 6 is about as good as an interface engine can be. Most of our clients are more than satisfied with it—not because Iguana is perfect, but because it isn’t the bottleneck limiting their growth.** The real obstacles often aren’t a lack of integration or missing technology. More often, it’s quite the opposite.
 
-Rhapsody for instance hasn't made a profit in years and the junk they are putting on top of it won't change that.  There needs to be
-real compelling business value and in our opinion that cannot be delivered by a huge organization - it just does not make economic sense.
+In reality, many organizations could move faster by *removing* some of the software and complexity they’ve already accumulated.
 
-Real competitive advantage lies not in complexity, but in radical simplicity.
+Too often, the default response to a challenge is to layer on new features, products, and systems in a desperate attempt to stand out. But this approach is fundamentally flawed. More software rarely means more value—instead, it almost always brings more friction, higher costs, organizational bloat, and slower progress.
 
-Software shouldn’t be a black box that traps customers in a cycle of dependency. Instead, it should provide a clear, adaptable foundation—one that customers can understand, extend, and refine as their needs evolve.  This the idea behind our open [Flow](/flow) technology. Every business faces [unique constraints](/system/toc), and no vendor can anticipate every challenge they’ll encounter. Yet today’s IT landscape grows increasingly fragmented, as organizations cobble together dozens of products from different vendors and hope they’ll mesh. In reality, every additional layer introduces more confusion, upkeep, and risk of failure.
+**True competitive advantage comes from radical simplicity.**
 
-It’s time for a different approach. Our focus as an organization is shifting—we’re no longer chasing every possible customer. Instead, we’re choosing to partner with a select group of ambitious companies within each industry, businesses that are committed to becoming true market leaders. With these organizations, we’ll work to uncover and eliminate the real obstacles holding them back. Sometimes this calls for bold process redesign. Sometimes it means stripping out redundant technology. Sometimes, it even requires hard changes within the organization itself. These are not easy conversations, but genuine transformation never is.
+Software should *not* be a black box that traps you in vendor dependency. Instead, it should offer a clear, adaptable foundation—one that you can understand, extend, and refine as your needs evolve. That’s the philosophy behind our open [Flow](/flow) technology.
 
-This isn’t a path for everyone. Many companies prefer the **illusion of safety that comes from incremental change** and added features. That’s understandable. But the organizations willing to challenge assumptions, simplify relentlessly, and attack their true bottlenecks almost always outpace those who believe the answer is just layering on more software.
+Every business faces [unique constraints](/system/toc), and no vendor can anticipate every challenge ahead. Yet, today’s IT stacks are more fragmented than ever, as organizations stitch together dozens of products from different vendors and hope they’ll work together harmoniously. In truth, each additional layer brings confusion, maintenance overhead, and risk.
 
-We’re interested in collaborating with those ready to reject complexity for the sake of real progress. Together, we can build businesses that are clearer, faster, and far more competitive—not by endlessly adding to the stack, but by thinking more clearly about what really matters
+**It’s time for a different approach.**  
+We’re shifting our focus—not by trying to serve everyone, but by partnering with a select group of ambitious companies in each industry who are committed to becoming true leaders. With these partners, we work to surface and remove the *real* obstacles holding them back. That could mean bold process redesign. Sometimes, it means stripping out redundant technology. And sometimes, it even means making tough internal changes. These aren’t easy conversations, but genuine transformation never is.
+
+This isn’t a path for everyone. Many prefer the **illusion of safety through incremental change** and ever more features. That’s understandable.  
+But the companies willing to challenge assumptions, simplify relentlessly, and address their real bottlenecks are the ones that consistently outpace their competitors.
+
+We’re looking to collaborate with those ready to reject complexity for the sake of real, sustainable progress. Together, we can build organizations that are clearer, faster, and far more competitive—not by endlessly adding to the stack, but by focusing on what truly matters.
+
