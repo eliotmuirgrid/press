@@ -20,4 +20,4 @@ In summary, redbean’s socket model is modern, scalable, and built around non-b
 
 Hmmm - same as I what I did with IguanaX.
 
-Might be a better place to start from that IguanaX itself.  It meets my objectives.
+Might be a better place to start from than IguanaX itself.  It meets my objectives.
