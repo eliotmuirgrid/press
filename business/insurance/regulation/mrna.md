@@ -1,6 +1,6 @@
 # mRNA Vaccines are a Miraculous Technology
 
-So is nuclear fission and fusion, which provide us with the potential for unlimited power and what feels like unlimited destruction.
+So are nuclear fission and fusion, which provide us with the potential for unlimited power and what feels like unlimited destruction.
 
 Well, let me quietly point out an uncomfortable probability. As civilizations progress and their understanding of technology increases, there is undoubtedly an unlimited sequence of progressively more and more potentially destructive technologies.
 
