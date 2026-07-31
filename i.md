@@ -1,4 +1,4 @@
-# iNTERFACEWARE – Integration That Improves Business Performance
+# iw – Integration That Improves Business Performance
 
 We help organizations identify and remove operational bottlenecks using the [Theory of Constraints](/system/toc). The goal isn't integration for its own sake—it's measurable business improvement.
 
