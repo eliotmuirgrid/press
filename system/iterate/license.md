@@ -32,3 +32,6 @@ It was deciding to stop rewriting the wrong system.
 
 To use the new system go to [License](/license).
 
+**Eliot Muir**
+
+**CEO iW the new iNTERFACEWARE**
