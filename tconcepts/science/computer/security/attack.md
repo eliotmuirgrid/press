@@ -9,4 +9,4 @@ Think of your software like a house: the more doors it has, the harder it is to 
 **Bottom line:**  
 Less code and fewer dependencies mean a smaller, safer attack area.
 
-By the way: [Mirth Connect](attack/mirth/javascript.md)—a popular open-source HL7 engine—uses both Java and JavaScript, making it very difficult to secure,
+By the way: Mirth Connect — a popular open-source HL7 engine—uses both Java and JavaScript, making it very difficult to secure,
