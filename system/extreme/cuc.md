@@ -24,9 +24,9 @@ They will be distinctly unhappy when it ceases to be easy for them to maintain *
 
 ![](cuc.png)
 
-I wouldn't shed any tears for CUC - it's crazy that an island with a huge amount of losses from global warming and rising sea levels contributes to the problem with inefficient centralized power generation largely using fossil fuels for delivery.
+I wouldn't shed any tears for CUC - it's crazy that an island that stands to be submerged under water from rising sea levels with global warming contributes to the problem with inefficient centralized power generation largely using fossil fuels for delivery.
 
-CUC has been one of the most effective forces in slowing down the adoption of solar energy in the Cayman Islands.
+CUC has been one of the most effective forces in slowing down the adoption of solar energy in the Cayman Islands.  They work tirelessly virtue signalling the opposite but the reality is they make it difficult for people to set up solar energy here.
 
 **Let them burn.**
 
