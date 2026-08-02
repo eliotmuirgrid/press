@@ -37,14 +37,24 @@ saving a bunch of money on power (and water).
 The only one who won't be happy will be [CUC Cayman](https://www.cuc-cayman.com/).
 
 They will be distinctly unhappy when it ceases to be easy to for them
-to maintain "Delivering Safe Reliable Energy Services at Competitive Costs".  Their
+to maintain **"Delivering Safe Reliable Energy Services at Competitive Costs"**.  Their
 costs will go up as their economies of scale reduce.  At some point they go
 bankrupt which a really interesting aspect of network switching. That will be
 challenging for all those high rise developments in the island.
 
+![](cuc.png)
+
+I wouldn't shed any tears for CUC - it's crazy that an island which has a huge
+amount of lose from global warming and rising sea levels contributes to the problem
+with inefficient centralized power generation largely using fossil fuels for delivery.
+
+CUC has been one of the most effective forces in slowing down the adoption of solar
+energy in the Caymans.  
+
+**Let them burn.**
+
+The is more effective than ESG questionaires.  Solid engineering and appealing to
+people's real motivations to save a few bucks on their power bill.
+
 Funny how 'improving' something creates unexpected system effects in other
 places eh?
-
-
-
-
