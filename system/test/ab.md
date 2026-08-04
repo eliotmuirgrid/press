@@ -1,4 +1,6 @@
-# A/B Testing: 
+# A/B 
+
+**How do you test two options?** 
 
 **Optimize with Choices Quickly, Don’t Agonize.**
 
