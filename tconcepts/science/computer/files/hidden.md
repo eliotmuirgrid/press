@@ -1,4 +1,6 @@
-# Hidden Files in Unix and Unix-like Operating Systems
+# Hidden 
+
+**How to hide Files in Unix and Unix-like Operating Systems**
 
 One helpful convention in Unix and Unix-like operating systems, such as Linux, is the ability to put a dot (.) in front of a file name. By default, most operations treat files with this notation as invisible.
 
