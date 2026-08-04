@@ -8,5 +8,7 @@ However, this approach makes every single interface engine vulnerable, including
 
 Our Flow technology means that when a production interface is produced, the compiled binary actually removes everything that isn't needed for production. 
 
+See [Flow Integrate](/flow/aiguana).
+
 This makes our approach unmatched by any competitor in terms of security.  Anyone who claims that it's not true needs to have their head examined, as they're not talking about basic facts.
 

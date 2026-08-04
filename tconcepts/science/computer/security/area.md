@@ -1,4 +1,8 @@
-# Attack Area (Attack Surface)
+# Area
+
+**The more area you have to defend the harder security is.**
+
+This is applies to big organizations, large code bases and big houses.
 
 Think of your software like a house: the more doors it has, the harder it is to secure. In software, every endpoint, interface, or dependency is an entry point for attackers—the **attack area**. More code and more third-party libraries mean more vulnerabilities.
 
@@ -9,4 +13,4 @@ Think of your software like a house: the more doors it has, the harder it is to 
 **Bottom line:**  
 Less code and fewer dependencies mean a smaller, safer attack area.
 
-By the way: Mirth Connect — a popular open-source HL7 engine—uses both Java and JavaScript, making it very difficult to secure,
+This is why we are building [Flow](/flow) to make the smallest attack area possible for production interfaces.
