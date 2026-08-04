@@ -444,9 +444,9 @@ bool FILpathSimplify(COLstring* pPath) {
 
 When I look at code with less interesting thoughts from the author showing his wisdom I notice more interesting things that show his stupidity.
 
-Like WTF - why have a C array.  That's dangerous.  Matt (the programmer who wrote this) was a lazy fat barstard. He did this, didn't bother changing the code base over to use it and left to go work for more money for Google.  Awesome.  I have to fix your code.  I never trust code from anyone.  
+Like WTF - why have a C array.  That's dangerous.  The programmer who wrote this took corners and didn't bother changing the code base over to use it and left to go work for more money for Google.  Awesome.  I have to fix this code.  I never trust code from anyone.  
 
-The formatting of this code is stupid.  It has a low signal to noise ratio.  I would compact
+The formatting of this code is stupid.  It has a low signal to noise ratio.  I willl compact
 the code to make it easier to read and reason about.
 
 It's too long.
