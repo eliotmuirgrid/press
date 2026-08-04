@@ -10,5 +10,5 @@ Our Flow technology means that when a production interface is produced, the comp
 
 See [Flow Integrate](/flow/aiguana).
 
-This makes our approach unmatched by any competitor in terms of security.  Anyone who claims that it's not true needs to have their head examined, as they're not talking about basic facts.
+This is true innovation in security using innovation to provide an unheard of level of security using solid engineering to push the boundaries of what is possible.
 
