@@ -36,7 +36,7 @@ But why stop at publishing? The same foundation could enable secure, peer-to-pee
 
 Human needs are simple: communicate, get paid, organize information, store precious digital assets, and even send feedback to politicians in ways they can’t suppress. All of this is possible with this technology—and it’s fundamentally **safe, private, trusted, and ethical.**
 
-For the first time, citizens—not Big Tech—would truly control their own data.
+All people to truly control their own data.
 
 ## The Goal and the Big Picture
 
