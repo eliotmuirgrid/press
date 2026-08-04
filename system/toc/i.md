@@ -1,6 +1,6 @@
-# Theory of Constraints
+# Constraints
 
-The Theory of Constraints is one of the most profound ideas in managing an organization for performance and results.
+**The Theory of Constraints is one of the most profound ideas in managing an organization for performance and results.**
 
 ## The Key Idea
 
