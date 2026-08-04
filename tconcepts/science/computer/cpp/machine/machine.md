@@ -1,4 +1,4 @@
-# How to Make an Intellectual Machine Gun
+# How to Make Powerful Intellectual Framework
 
 ## Step 1: Make Programming Ridiculously Easy
 
