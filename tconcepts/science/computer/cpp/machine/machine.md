@@ -40,6 +40,6 @@ For the first time, citizens—not Big Tech—would truly control their own data
 
 ## The Goal and the Big Picture
 
-This is disruption. **This is the GOAL of the [theory of constraints](/system/toc):**  
-Remove every barrier, empower ordinary users, and trigger an overdue revolution in personal computing.
+This is help people be more creative. **This is the GOAL of the [theory of constraints](/system/toc):**  
+Remove every barrier and empower ordinary users.
 
