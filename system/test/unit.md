@@ -6,7 +6,7 @@ I am building unit testing into the foundation of our flow. It needs to be as si
 
 The most obvious idea is to put each test in a self-contained file, located in a directory under the code file being tested, which in most cases will be a function.
 
-Each unit test should test one thing: one input and one expected output, with preferably minimal boilerplate.
+Each unit test should test one thing: one input and one expected output, with preferably no boilerplate.
 
 When you phrase the problem as clearly as that, the problem definition becomes obvious.
 
@@ -17,7 +17,7 @@ We simply represent each test case as an assertion with minimal syntax in the la
 Imagine in each file we have something like:
 
 ```
-"C:\\blah" == filepathSimplify("C:\\blah\\..\\blah");
+"C:\\blah" == FILpathSimplify("C:\\blah\\..\\blah");
 ```
 
 Now tests become very easy to write and generate by humans or AI. Most importantly, they are easy to delete when you're done with them.
