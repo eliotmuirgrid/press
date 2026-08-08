@@ -16,7 +16,7 @@ When were they last checked?
 
 Filters are a concept used in many systems, physical and software.
 
-See [robot filters](/tconcepts/science/computer/robot/filter).  Everything is connected.
+See [robot filters](/tconcepts/science/electrical/robot/filter).  Everything is connected.
 
 See the whole system.  
 
