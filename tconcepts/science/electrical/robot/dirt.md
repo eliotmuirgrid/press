@@ -1,9 +1,13 @@
 # Dirt
 
-Dirt and debris will decrease the efficiency of your robot and jam it up.
+Dirt and debris decrease the efficiency of your robot and can cause it to jam.
 
-Make your environment clean and the robot will help you keep it clean.
+Keep your environment clean, and the robot will help you keep it that way.
 
-Keep the robot clean and the robot will continue to function and help you.
+If you keep the robot clean, it will continue to function properly and assist you.
 
-Everything is connected.
+Dirt creates [friction](/system/friction) inside the robot, which can stop it from working or even cause damage.
+
+My outdoor robot can get stuck, usually because sticks stop the wheels from rotating. This is a key part of its maintenance.
+
+Everything is connected
