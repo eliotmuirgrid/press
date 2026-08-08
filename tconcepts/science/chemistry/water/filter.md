@@ -14,3 +14,11 @@ Where are your filters?
 
 When were they last checked?
 
+Filters are a concept used in many systems, physical and software.
+
+See [robot filters](/tconcepts/science/chemistry/water/filter].  Everything is connected.
+
+See the whole system.  
+
+Understand everything.
+
