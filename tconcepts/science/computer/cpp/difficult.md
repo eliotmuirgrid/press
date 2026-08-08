@@ -1,4 +1,6 @@
-# Why is C++ Complicated
+# Difficult
+
+**Why is C++ Complicated?**
 
 One reason why even AI has difficulty writing truly good C++ code is rooted in its history: **the people who contributed the most to C++ were, overwhelmingly, from large companies**. Over the years, armies of programmers at big corporations often found themselves without enough urgent, meaningful production work. To keep busy (and perhaps justify headcount), many developers at these organizations invented elaborate solutions to problems that didn’t truly exist. With no pressing system constraints, they essentially had free rein to experiment, leading to layer upon layer of complexity in both language and library design.
 

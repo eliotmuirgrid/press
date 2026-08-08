@@ -1,4 +1,6 @@
-# Why I Only Work with Affiliates (and Not 'Professional Developers')
+# Focus
+
+**Why I Only Work with Affiliates (and Not 'Professional Developers')**
 
 Over time, I've realized I don't want to *employ* "professional developers"—at least, not as they're usually defined by our industry.
 
