@@ -1,4 +1,6 @@
-# Osmosis as an equilibrium concept
+# Osmosis 
+
+**Osmosis is an equilibrium concept.**
 
 Osmosis is the spontaneous movement of solvent molecules—most commonly water—across a semipermeable membrane from a region of lower solute concentration to a region of higher solute concentration. This movement occurs because the system is striving to minimize differences in chemical potential, ultimately seeking equilibrium. The semipermeable membrane allows the passage of solvent but not solute molecules, creating a selective barrier essential for the process.
 
