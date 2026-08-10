@@ -1,18 +1,18 @@
 # Stuck
 
-### 1. **Why is my Mova Home 2 Cleaning Robot Getting Stuck?**
+## Why is my Mova Home 2 Cleaning Robot Getting Stuck?
 
 These robots rely on wheels, sensors, and navigation algorithms to roam your home. Obstacles—like uneven surfaces, gaps, grooves, or unusual textures—can disrupt their movement or confuse their sensors, causing them to get stuck.
 
 ---
 
-### 2. **It Always Gets Stuck on the Brown Wooden Slats with My Olive Tree**
+## It Always Gets Stuck on the Brown Wooden Slats with My Olive Tree
 
 Since the olive tree’s wooden slats are a consistent trouble spot, there’s something about them specifically that creates a unique challenge for your robot.
 
 ---
 
-### 3. **What is it About the Brown Wood that Seems to Get this Robot Stuck?**
+## What is it About the Brown Wood that Seems to Get this Robot Stuck?
 
 Here are some possible characteristics of the slats causing trouble:
 
@@ -24,7 +24,7 @@ Here are some possible characteristics of the slats causing trouble:
 
 ---
 
-### 4. **Potential Reasons**
+## Potential Reasons
 
 - **Physical Obstruction:** The wheels physically can’t roll over the slats or gaps.
 - **Sensor Confusion:** IR or optical sensors misinterpret the area as dangerous or “empty,” leading to navigation errors.
@@ -34,7 +34,7 @@ Here are some possible characteristics of the slats causing trouble:
 
 ---
 
-### 5. **How Can We Test Which Reason is Real?**
+## How Can We Test Which Reason is Real?
 
 1. **Visual Inspection:**
    - Watch the robot try to cross the slats. 
@@ -54,7 +54,7 @@ Here are some possible characteristics of the slats causing trouble:
 
 ---
 
-### 6. **Once We Understand – How Do We Fix It?**
+## Once We Understand – How Do We Fix It?
 
 Depending on what you find, possible solutions include:
 
@@ -67,7 +67,7 @@ Depending on what you find, possible solutions include:
 
 ---
 
-**Summary Table:**
+## Summary Table:
 
 | Problem              | Test/Observation                    | Possible Fix              |
 |----------------------|-------------------------------------|--------------------------|
@@ -76,22 +76,5 @@ Depending on what you find, possible solutions include:
 | Sensor confusion     | Robot hesitates/reverses/flashes    | Clean sensors, add tape  |
 | Clearance issue      | Undercarriage scraping              | Overlay with mat/sheet   |
 | Navigation flaw      | Only on this surface                | Block area, request help |
-
----
-
-Let me know if you want to go deeper on any of these causes or solutions or need help with a specific DIY fix
-# Stuck
-
-Why is my Mova Home 2 cleaning robot getting stuck?  Well it always gets stuck on the brown woooden slats that has my olive tree in it.
-
-The damned olive tree is major reason we need the cleaning robot.
-
-What is it about the brown wood that seems to get this robot stuck?
-
-What the potential reasons?
-
-How can we test which reason is real?
-
-Once we understand - how to do we fix it?
 
 
