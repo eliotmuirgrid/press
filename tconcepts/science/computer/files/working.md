@@ -10,7 +10,7 @@ When you use the command line (such as Bash, Command Prompt, or PowerShell), you
 
 ## Why is it Important?
 
-- **Command Context:** Any command you run that refers to files (e.g., `ls`, `cat`) will act on files *relative* to the working directory (unless you give the full path).
+- **Command Context:** Any command you run that refers to files (e.g., `ls`, `cat`) will act on files *[relative](relative)* to the working directory (unless you give the full path).
 - **Navigation:** You can move your working directory using commands like `cd` (`change directory`).
 
 ---
