@@ -15,7 +15,12 @@ The [power of two is a powerful concept](/system/two): having two filters allows
 
 ![](filter.jpg)  
 
-This the filter we got in Cayman.  It's really expensive.  $165 each after taxes in Cayman dollars.  Yes we do pay tax here.  It's in the price of what we buy.  We pay our taxes our way and we're not interested in paying your taxes your way.
+This the filter we got in Cayman.  It's really expensive.  $165 each after taxes in Cayman dollars.  Yes we do pay tax here.  It's in the price of what we buy.  We pay our taxes our way and we're not interested in paying your taxes your way. The manufacturer preaches the message that it's simply the best.
+
+Well if the competition is 1/3 the price and you can change the filter more often it would be better?
+
+Or what if it was made of a more durable more washable construction?  Then it would be less expensive
+and not fill up landfills?
 
 Filters are a concept used in many types of systems, including both physical and software systems.
 
