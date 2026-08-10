@@ -1,27 +1,40 @@
-# People 
+# People
 
-**Trust is the New Gold When Technical Progress Goes at Light Speed**
+![](people.png)
 
-I hope to speak soon with the VP of interface engine that uses Tickle, about a shift that isn’t immediately obvious: as technology evolves at an unprecedented pace, every groundbreaking idea is quickly overshadowed by the next. In this chaotic landscape, only two things truly matter:
+iNTERFACEWARE isn't structured like a typical technology corporation—which, frankly, is seldom optimized for client success.
 
-- **Who has the best information?**  
-- **Who has the trusted relationships to explain it to those who matter?**
+## Optimized for Client Success Rather than Exit
 
-Technology migration doesn't happen quickly.  And frankly we are all in the same boat.  Not only do we have to make money to pay the bills - we all the face the same threats.
+Most modern technology organizations are designed for fast growth and quick acquisition, so the founders can cash out. After that, you can usually expect prices to rise, service to deteriorate, and little attention paid to the product itself—which is supposedly the next “AI-powered, FHIR-enabled” gadget that never quite works.
 
-At the end of the day my humanity matters to me more than money. Otherwise there is no way I would have destroyed by company.  I may end up more influential as a result because in this model I help companies which would have been my competitors to use technology like [packaging legacy applications to harden them](../aazip/i.md).
+These companies often have impressive-sounding governance boards filled with expensive, paid consultants promoting generally mediocre products. They’re awash in stock options and marketing photos of excited-looking young millennial employees hoping for a rocket-ship ride. We decided the millennial look would look better than we do, so we generated this nice AI image—you probably won’t find any of us in a stock photo, but thankfully, our work speaks for itself!
 
-Trust has become more valuable than ever—yet it can’t be built overnight. Ironically, technology now advances so rapidly that trust often lags behind. Building real, meaningful relationships takes time, and, amidst this rush, those connections are more essential than ever.
+## Our Story
 
-That’s why iNTERFACEWARE is transforming. We’re no longer a traditional company defined by shareholders, stocks, and a fixed hierarchy of employees. Instead, iNTERFACEWARE is now primarily myself, Eliot Muir, working side by side with a network of talented people and companies. I call this an “affiliate model,” and I’ve found it remarkably effective.
+iNTERFACEWARE is different. At its core is Eliot Muir—the same person who has been diligently running the company since he first started writing code for Chameleon in Chicago back in 1997. He later moved to Canada, where he spent 25 successful years before deciding to run the business from a new, more tax-efficient location.
 
-This flexible structure allows me to collaborate with highly skilled individuals and groups, enabling us to develop products and write code at a speed and competence that outpaces what a conventional organization could ever achieve. It’s a truly amazing way to work—and looking back, I only wish I had discovered this approach sooner. While I may have arrived at this model later than I’d like, I’m grateful to have found it at all.
+After a year and a half of trying to get the Canadian team to help restructure the business, Eliot finally thought, “Screw it,” and decided to move forward with a new approach.
 
-We live, we learn, and—true to the saying—what doesn’t kill us only makes us stronger.
+It turned out to be the best business decision ever. The business (no longer a company in the traditional sense) has been greatly improved. It's turned out to be a much lower-stress organization to manage—more efficient, more agile, and able to have a much larger impact. Many of our clients have been asking how we did it and if we could help them transform their organizations in the same way. That has become a significant part of how we grow our relationships with clients: by helping them realize the same efficiencies that can be achieved using the [Theory of Constraints](/system/toc) and [systems thinking](/system).
 
-It actually makes sense for me to work with Infor since security is everyone's problem.  Infor have a big footprint in critical systems that protect our military and health systems.
 
-That matters.  See [Jeff Lewis](lewis.md) and his connection to [Teletracking where having old applications suddenly is looking sexy!](../security/i.md).  Infor has a massive opportunity here.
+## How We Work
 
----
+When you have a product like Iguana, engineered to such an [extreme degree it just works](/system/extreme), it truly changes what’s possible.
 
+But iNTERFACEWARE isn’t just Eliot. After some experimentation (Eliot once believed he could run the whole thing himself), we’ve found that about four people is the optimal team size—a significant reduction from the 28 staff we used to have. Here are the roles we’ve found necessary:
+
+ - **Development** – Eliot, using AI as his “team”
+ - **Money Man** – Currently Paul Gannon, who handles all billing aspects using [Flow Money](/flow/money).
+ - **Operations** – A locally-based Caymanian role
+ - **Support** – Currently Julian Muir
+
+Support is handled between Julian and Eliot, and it works very well. We respond quickly and intelligently to the handful of issues that crop up now and then.
+
+We also bring in like-minded individual consultants and affiliates for specific projects or clients that need larger solutions.
+
+Moving forward, we intend to do things using more of an open-source model. We realize that for critical infrastructure software, this is necessary, but we don’t fully do it with Iguana 6 yet. The reason is that the code is legacy—open-sourcing it would be too risky, and we also need to be realistic about the transition process. No, Iguana 6 is not free, and like every business, you can be certain that we do care about being paid. However, we always structure things so that our customers get real value for what they pay.
+
+Honestly, Iguana actually saves our customers a lot of money. It’s a really solid product  
+that makes it possible for our clients to make their IT actually work for them.

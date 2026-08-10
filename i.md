@@ -1,52 +1,41 @@
-# iNTERFACEWARE Simplified
+# iW – Integration That Improves Business Performance
 
-Welcome to a Brave New World.
+We help organizations identify and remove operational bottlenecks using the [Theory of Constraints](/system/toc). The goal isn't integration for its own sake—it's measurable business improvement.
 
-## Billing is Resuming!
+![](toc.png)
 
-I am sure you all very excited to hear that we are resuming billing processes.  But this time
-with a focus on the [Theory of Constraints](/system/toc).  The first constraint to remove was
-to get rid of Eliot in the process and accept that it's actually pragmatic to start by using
-our legacy systems. The important thing is to get started and then look at reducing friction
-in the process. See [resumption of billing](business.md).  Thanks to [Paul Gannon](/people/paul.md)
-for getting this exciting business process resumed.
+Complexity is the enemy of performance. Often the fastest way to improve a business isn't to add more technology, but to [remove processes, systems, and solutions](/system/remove) that no longer create value. Think of it as decluttering your business.
 
-## The Focus for Iguana is on Flow 
+We challenge conventional thinking, using simple analogies to explain complex ideas. Sometimes the right answer is uncomfortable—but meaningful improvement rarely comes from doing what everyone else does.
 
-Eliot's decided he's going to work on a caffinated high with Chemical Bros playing until he's got
-Flow working with it's first killer application.  Getting email under control!  It's an interesting
-technical problem and it's something that everyone on the planet needs.
+We value substance over appearance. This website is intentionally simple because clarity matters more than polish.
 
-In the process building an effective solution for this will just happen to drop out a very good
-integration engine platform.  Email is a good a starting place as any :-)
+## Built on Iguana. Moving Forward with Flow.
 
-## Had a nice chat with Iowa Radiology about Security
+Iguana 6 remains the foundation of our production business. It's future, however, is [Flow](/flow): a platform designed to optimize not only integration, but the way software is designed, built, and improved.
 
-Flow will really help with that.
+We're applying Flow to our own business first, refining it through real-world use before introducing it to customers. We believe the best way to prove technology is to rely on it ourselves.
 
-See [Flow](/flowshell) for more random notes which most people don't understand about what Flow is.
+Businesses that consistently outperform their competitors don't optimize everything—they [optimize the constraint](/system/toc/bottleneck). That's the philosophy behind everything we build.
 
-## Main Resources  
-- [Product Documentation](documentation.md) 
-- [Information on how to get support](quality/email.md). Unfortunately email has been degraded so we are encouraging other forms of communication.
-- [Get license codes right here.](license.md).
-- [Product Downloads](products/downloads.md)
-- [Billing processes are resumed even if they are not automated yet.](business.md)
-- [Chameleon Customers please understand Secure Sockets is not optional in 2026](chameleon/i.md).
- 
+## Main Resources
 
-This website is a major part of setting up new infra-structure for the business. We used to use [HubSpot](why/hubspot.md)
-Currently the implementation is boot strapped in PHP but it will be redone with [Flow](/flowshell) in time.
+- [Product Documentation](documentation.md)
+- [Information on how to get support](support.md). Unfortunately, email communication has degraded, so we encourage other forms of communication.
+- [Get license codes right here.](license.md)
+- [Product Downloads](downloads.md)
+- [Billing processes are being optimized.](billing.md)
+- [Chameleon Customers: Please note, Secure Sockets will be mandatory in 2026](/documentation/chameleon/security)
 
-I am focusing on what is most important and applying the [Theory of Constraints](/system/toc).  My excessive focus on social issues has become a constraint.  I need to focus on [Flow](/flowshell). 
+This website is built with [Flow Publish](/flow/publish), the first application of the Flow platform. It also represents the first step in the [long-term evolution of Iguana 6, allowing customers to adopt new technology gradually and safely](/flow/aiguana).
 
-The phase of iNTERFACEWARE has begun.  The mission is as simple as
-it has always been.
+Our mission hasn't changed:
 
-Allow our customers to **control their data**. 
-
+Help customers **control their data**.
 
 Enjoy,
 
 **Eliot Muir**  
-**Founder/Architect of Iguana**
+**CEO/Founder of iNTERFACEWARE**  
+**Architect of Iguana**  
+
