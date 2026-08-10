@@ -13,6 +13,10 @@ When were they last checked?
 
 The [power of two is a powerful concept](/system/two): having two filters allows you to cycle them—clean one and let it dry while deploying the other.
 
+![](filter.jpg)  
+
+This the filter we got in Cayman.  It's really expensive.  $165 each after taxes in Cayman dollars.  Yes we do pay tax here.  It's in the price of what we buy.  We pay our taxes our way and we're not interested in paying your taxes your way.
+
 Filters are a concept used in many types of systems, including both physical and software systems.
 
 For example, see [robot filters](/tconcepts/science/electrical/robot/filter). Everything is connected.
