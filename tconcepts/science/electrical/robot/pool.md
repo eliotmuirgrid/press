@@ -1,6 +1,6 @@
 # Pool
 
-**One significant psychological barrier we faced when working with the robot was the fear that it might fall into the pool.**
+**One significant psychological barrier we faced when working with the robot was the fear that it might fall into the [pool](tconcepts/science/chemistry/water/balance).**
 
 Often, the greatest obstacle to learning is the fear of the unknown. If we’re unwilling to step beyond our comfort zones and confront common anxieties—like worrying that a relatively expensive cleaning robot might accidentally tumble into the pool and get destroyed—it becomes difficult to push our ideas forward.
 
