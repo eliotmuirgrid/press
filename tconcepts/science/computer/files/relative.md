@@ -14,5 +14,5 @@ An absolute file path shows the complete location starting from the root directo
 - Analogy: Saying **“James Muir”**—you’re given the full name, so you know exactly who it is without extra context.
 
 **Summary:**  
-- **Relative**: Position depends on where you are now.  
+- **Relative**: Position depends on where you are now, from the [working directory](working.md)  
 - **Absolute**: Complete address, does not depend on where you are
