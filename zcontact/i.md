@@ -18,7 +18,7 @@ Or connect via Zoom:
 WhatsApp or iMessage: **+36 20 326 5688**
 
 Email: [julian.muir@interfaceware.com](mailto:julian.muir@interfaceware.com)
-Support Email: [support@interfaceware.com](mailto:support@interfaceware.com)
+or support: [support@interfaceware.com](mailto:support@interfaceware.com)
 
 ---
 
