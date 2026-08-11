@@ -1,5 +1,6 @@
 # Alternative
 
+To use [Git](../) you do not need to use Github.
 
 1. **Easily exchanging changes with another user (syncing, sharing, fetching, pushing)**
 2. **Easily browsing changes (history, diffs, code navigation, review, discussion)**
