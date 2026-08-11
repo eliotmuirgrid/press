@@ -1,12 +1,14 @@
 # Solar
 
-One application of using ESP32 and Raspberry PI computers together with inexpensive cameras is to create a way to integrate with things that do not have easy electrical or other APIs.
+Innovative solutions often come from looking at old problems in a new light. In a place like the Caymans, where electricity costs are high, harnessing affordable technology can be truly transformative.
 
-Instead, just use an [ESP32](esp32) ($11.50) + [cheap computer camera](camera) ($18.99), and you have the perfect combination for an inexpensive way to see the battery level by literally having a computer watch it like a human.
+By combining ESP32 microcontrollers and Raspberry PI computers with simple, inexpensive cameras, we can unlock a new way to integrate with systems that lack digital interfaces or APIs. No more struggling with complex electrical retrofitting—just attach an [ESP32](esp32) (~$11.50) and a [low-cost camera](camera) (~$18.99), and you create an automated, computer-driven way to "see" and monitor equipment, just like a human would.
 
-The same approach can be used to view the pool pump, and we can use [Fingerbots](fingerbot) to operate the pool pump.
+Imagine: your solar storage battery’s charge level is visible to your home system, thanks to this smart setup. Your pool pump, too, can be observed—and, with affordable [Fingerbots](fingerbot), even controlled remotely at the touch of a button.
 
-According to the [Pareto Principle](/system/leverage/pareto), 80% of power consumption in my house comes from air conditioning and the pool pump.
+The impact is powerful. According to the [Pareto Principle](/system/leverage/pareto), around 80% of my household energy usage goes to air conditioning and pool pumping. By closely monitoring and precisely controlling these energy-hungry devices, we open the door to cutting our reliance on expensive grid electricity—potentially bringing power bills down to near zero.
 
-So by monitoring and controlling these resources, it should be possible to keep power bills close to zero by avoiding the use of grid power.
+Best of all, this is a repeatable, accessible model that anyone can adopt. It proves that with a little ingenuity and the right tools, anyone can make a lasting, positive difference—not just to their wallet, but also to the environment
+
+This what [Flow Device](/flow/device) is all about.
 
