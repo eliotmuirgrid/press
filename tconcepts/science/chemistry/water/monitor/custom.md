@@ -2,7 +2,7 @@
 
 **Solutions for Seamless Flow**
 
-By combining [small cameras](/tconcepts/science/computer/small/camera), [compact computers](/tconcepts/science/computer/small), 3D printed housings, and temperature sensors connected through the [Flow Device](/flow/device), we can create solutions for virtually any challenge.
+By combining [small cameras](/tconcepts/science/computer/small/camera), [compact computers](/tconcepts/science/computer/small), 3D printed housings, and temperature sensors connected through [Flow Device](/flow/device), we can create solutions for virtually any challenge.
 
 **Solve any problem:**
 
