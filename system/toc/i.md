@@ -1,6 +1,6 @@
-# Theory of Constraints
+# Constraints
 
-The Theory of Constraints is one of the most profound ideas in managing an organization for performance and results.
+**The Theory of Constraints is one of the most profound ideas in managing an organization for performance and results.**
 
 ## The Key Idea
 
@@ -49,12 +49,7 @@ Ironically, I found it easier to apply the Theory of Constraints at home than at
 
 I’ll share more about applying it at home another time.
 
-At the time, I was also going through a divorce and made things even messier by quadrupling profits in my business—only to discover this would increase my future debt, because a valuer based my company’s value at 8–10 times profit.
-
-**News flash:** You can’t work yourself out of that hole.  
-Marriage law and divorce settlements need a radical rethink for business people—it just doesn’t make sense.
-
-When the divorce was (sort of) resolved, I encountered yet another issue. Employees claimed they “got” the Theory of Constraints, but in reality, they either lacked the intellect, interest, understanding, or incentives to implement it.
+Employees claimed they “got” the Theory of Constraints, but in reality, they either lacked the intellect, interest, understanding, or incentives to implement it.
 
 Eventually, I realized I had to end everyone’s employment contracts and start again. It was rocky at first.
 

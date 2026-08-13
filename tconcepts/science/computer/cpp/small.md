@@ -1,4 +1,6 @@
-# New Iguana Could Be Just 5% of Iguana X’s Code
+# Small
+
+**New Iguana Could Be Just 5% of Iguana X’s Code**
 
 Yes, you read that right—it’s that wild! By actually using our brains and applying some key simple ideas, we can create a structure that works in a bunch of places—without overengineering each and every part into oblivion.
 

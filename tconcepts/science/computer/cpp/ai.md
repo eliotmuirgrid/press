@@ -1,4 +1,6 @@
-# For a sovereign AI expert
+# AI 
+
+**AI should be private and under your control.**
 
 A platform that enables you to seamlessly communicate your knowledge and facilitates frictionless payment and delivery of models to your clients would be a game changer.
 

@@ -1,4 +1,4 @@
-# How to Make an Intellectual Machine Gun
+# How to Make Powerful Intellectual Framework
 
 ## Step 1: Make Programming Ridiculously Easy
 
@@ -36,10 +36,10 @@ But why stop at publishing? The same foundation could enable secure, peer-to-pee
 
 Human needs are simple: communicate, get paid, organize information, store precious digital assets, and even send feedback to politicians in ways they can’t suppress. All of this is possible with this technology—and it’s fundamentally **safe, private, trusted, and ethical.**
 
-For the first time, citizens—not Big Tech—would truly control their own data.
+All people to truly control their own data.
 
 ## The Goal and the Big Picture
 
-This is disruption. **This is the GOAL of the [theory of constraints](/system/toc):**  
-Remove every barrier, empower ordinary users, and trigger an overdue revolution in personal computing.
+This is help people be more creative. **This is the GOAL of the [theory of constraints](/system/toc):**  
+Remove every barrier and empower ordinary users.
 

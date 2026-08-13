@@ -24,7 +24,7 @@ Let’s take one popular example of received "sales wisdom":
 
 This is recited almost like a religious mantra. The idea is that prospecting for new accounts should be handled by a group called ‘hunters,’ while growing existing accounts should be left to the ‘farmers.’ Sadly, not everyone in sales is intellectually curious, and their thinking rarely goes any deeper.
 
-But if you look more closely, this statement reflects just one special case of a broader systems principle: systems become simpler and more efficient through the division of labor. By separating concerns, you can make any system easier to manage and more effective.
+But if you look more closely, this statement reflects just one special case of a broader systems principle: systems become simpler and more efficient through [the division of labor](/system/separate/labor). By separating concerns, you can make any system easier to manage and more effective.
 
 Justin starts the book by proposing a theoretical scenario—a catastrophe in which the entire sales and marketing team perishes in a tragic accident. Perhaps that's why the sales leaders didn't appreciate his talk; maybe they took this idea personally.
 
