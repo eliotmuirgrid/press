@@ -12,7 +12,8 @@ to design an email client which doesn't lose email (thank you spammers - you don
 ```
 Hello Sasha/Bob/Judy/Anonymous One,
 
-The CAD $10,000.00 payment received by Wise on July 20, 2026 came directly from my company’s TD business account:
+The CAD $10,000.00 payment received by Wise on July 20, 2026 came directly
+from my company’s TD business account:
 
 Account holder: iNTERFACEWARE INC.
 Bank: TD Canada Trust
@@ -28,11 +29,16 @@ LVTS #: LVTS9ACV7QLX1TR2
 TD Payment ID: 260720B0396200
 Payment ID: 83812260720002
 
-The issue is that I sent the funds directly from my business TD account to my personal Wise account. I subsequently learned that I should have transferred them through my personal TD account first.
+The issue is that I sent the funds directly from my business TD account to
+my personal Wise account. I subsequently learned that I should have transferred
+them through my personal TD account first.
 
-I have attached the TD documentation identifying both the originating account and the payment. The originating account is documented as belonging to iNTERFACEWARE INC.
+I have attached the TD documentation identifying both the originating account
+and the payment. The originating account is documented as belonging to
+iNTERFACEWARE INC.
 
-Please let me know if you require any specific additional documentation from TD to trace or verify this payment.
+Please let me know if you require any specific additional documentation from
+TD to trace or verify this payment.
 
 Regards,
 Eliot Muir
