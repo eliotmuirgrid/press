@@ -4,7 +4,7 @@
 
 One potential simple plan is as follows:
 
- - The slowest part of the process is obtaining certificates to sign the binaries. [So do that first.](concepts/science/computer/security/key)
+ - The slowest part of the process is obtaining certificates to sign the binaries. [So do that first.](/tconcepts/science/computer/security/key)
  - Then start with Iguana X, since it's the easiest one to build.
  - Give it a new, clean public/private key-based system for signing, with call-home capability. Customers can get longer licenses if they want—they just need to pay in advance.
  - Next, create a simple license code generator binary that supports both classic Iguana 6 and Iguana X.
