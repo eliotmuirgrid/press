@@ -20,5 +20,5 @@ Ultimately, our primary concern is the protection of sensitive information for t
 
 Thank you for your attention to this important matter. If you need guidance setting up encrypted LLP channels, please let us know. We’ll also be updating documentation shortly to further assist with this process.
 
-Migration is designed to be simple and focuses primarily on [regression testing](../system/regression.md).
+Migration is designed to be simple and focuses primarily on [regression testing](../../system/test/regression.md).
 
