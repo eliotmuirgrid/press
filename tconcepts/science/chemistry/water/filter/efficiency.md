@@ -38,4 +38,4 @@ A pump inadvertently running at high RPM can use several times more energy than 
 ---
 
 **In summary:**  
-Reducing the pump speed is a powerful way to cut energy consumption and operational costs, especially for routine filtration. Adjusting your settings can lead to major energy savings without sacrificing water quality. 
+Reducing the pump speed is a powerful way to cut energy consumption and operational costs, especially for routine filtration. Adjusting your settings can lead to major energy savings without sacrificing water quality.  See [Solar Energy](/tconcepts/science/electrical/solar).
