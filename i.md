@@ -4,6 +4,8 @@ We help organizations identify and remove operational bottlenecks using the [The
 
 ![](toc.png)
 
+Are you too [busy to think?](/system/toc/busy)
+
 Complexity is the enemy of performance. Often the fastest way to improve a business isn't to add more technology, but to [remove processes, systems, and solutions](/system/remove) that no longer create value. Think of it as decluttering your business.
 
 We challenge conventional thinking, using simple analogies to explain complex ideas. Sometimes the right answer is uncomfortable—but meaningful improvement rarely comes from doing what everyone else does.
