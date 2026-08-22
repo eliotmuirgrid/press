@@ -10,7 +10,7 @@ For example, after Hurricane Ivan in the Cayman Islands, civil order faltered.
 
 The fundamental issue is this: authority must have the consent of the governed. Even on a small island with a surprisingly large police force, officers are vastly outnumbered by civilians. In "black swan" events like Hurricane Ivan, they can easily be overwhelmed.
 
-I've conducted several [psychologically extreme](/system/extreme) experiments to see what it would take for people to recognize the existential threats they actually face. (See [police](/incest/police) for more.)
+I've conducted several [psychologically extreme](/system/extreme) experiments to see what it would take for people to recognize the existential threats they actually face.
 
 These experiments have taught me a lot—mostly about the weaknesses, but also a few strengths, in our current systems. Why would I bother? Who am I to ask such things? “Who the hell are you, Eliot?” is a fair question.
 
