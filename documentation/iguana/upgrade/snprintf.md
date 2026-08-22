@@ -8,4 +8,4 @@ The process for this improvement is straightforward: first, identify risky funct
 
 Overall, using safer system calls in Iguana 6 significantly improves security and reliability by following modern secure coding practices and reducing the risk of memory-related bugs.
 
-Another significant issue is resolving what to do with [Chameleon given it's Delphi 4 dependencies](chameleon.md).
+Another significant issue is resolving what to do with [Chameleon given it's Delphi 4 dependencies](../../chameleon/delphi4.md).

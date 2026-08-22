@@ -16,7 +16,7 @@ Organizations do disappear, and iNTERFACEWARE is committed to open-sourcing our 
 
 At iNTERFACEWARE, we aim to lead by example and show our clients how to maintain robust infrastructure. Git is a huge part of that strategy. If something is worth storing, we store it in Git.
 
-For [license codes, they are available here](license.md).
+For [license codes, they are available here](../license/i.md).
 
 **Chameleon customers:** Chameleon now comes bundled with Iguana. Since Chameleon never supported encrypted TCP/IP communications, it's important that you use Iguana together with Chameleon so you can protect your customers' data with encryption. It’s easy to do, and you are welcome to reach out if you have any questions on how to configure this. You have a legal and ethical responsibility to do this, we can help.
 

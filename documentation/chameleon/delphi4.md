@@ -10,6 +10,6 @@ These challenges became painfully clear in the context of maintaining legacy app
 
 It's been especially disheartening to watch others repeat past mistakes or simply copy flawed designs rather than innovate. One former business partner, TIBCO, even recreated aspects of Chameleon after the fact—a reminder of how often the industry favors imitation over original problem-solving. Migration to better-designed platforms takes effort and vision, underscoring the reality: true innovation is hard work, while copying the familiar—even if it's flawed—is far too easy. For those facing similar legacy challenges, shared code licenses and open collaboration are the way forward, but getting everyone on board is easier said than done.
 
-A lot of problems and Eliot will need to some [quiet](quiet.md) space to solve them.
+A lot of problems and Eliot will need to some quiet space to solve them.
 
 If you need Chameleon today please [download Iguana 6 and get it embedded with the Windows installer](/downloads).
