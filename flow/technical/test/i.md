@@ -2,34 +2,35 @@
 
 **Testing is a central concept in Flow.**
 
-Making testing as easy as possible is a key idea in Flow. Rather than requiring tests to be written out with a heavy, cumbersome framework, it’s better to define tests with simple, intuitive functions. This reduces friction and allows developers to focus on the logic and behavior they want to verify.
+I had to try Claude to see what all the fuss was about. I was genuinely hopeful that it might help me write Flow faster.
 
-We start with simple cases and incrementally implement further tools to keep testing both simple and effective.
+But I found it surprisingly cumbersome and difficult to keep pointed in the right direction.
 
-Let’s start by considering the need for a function such as `FILEpathAbsolute(Path)`.
+So I went back to building Flow myself and finished the JSON parser. My next focus is building out the testing framework.
 
-This function must simplify directories, including expanding "~" characters, to generate an absolute path. Testing it can be challenging, since handling paths and the file system normally requires an assumed or virtual environment.
+The plan is to cut the core classes in COL like the string class down to the minimum. Rather than having lots of methods attached to classes, most operations will be represented as small global functions.
 
-To address this, we allow the tester to define test cases using a set of sample files located in a controlled directory under `FILE/`. For our tests, we can use the directory `FILE/FILEpathAbsolute/tests/` as a sandbox for input files and directory structures.
+Then I can test those functions rigorously using a declarative testing strategy.
 
-By structuring our test environment this way, we can:
+The basic idea is extremely simple: **a file containing one JSON object per line, with each object representing a single test.**
 
-- Clearly organize test files and inputs
-- Easily define expected outputs for different cases (such as resolving "~", absolute paths, and relative paths)
-- Run tests in isolation, without affecting or depending on the actual user environment
+Each JSON object will have `in` and `out` fields. `in` represents the inputs to the function and `out` represents the expected output.
 
-### Example
+So effectively:
 
-Suppose we want to test how `FILEpathAbsolute` handles different kinds of input. We can express these tests simply:
+**one line = one test = input + expected output**
 
-```
-# Pseudocode Example
-assert FILEpathAbsolute("~/project") == "/home/testuser/project"
-assert FILEpathAbsolute("docs/../images") == "/current/working/directory/images"
-assert FILEpathAbsolute("/etc/passwd") == "/etc/passwd"
-```
+Because most Flow functions will operate on relatively simple types, I think this structure should cover a surprisingly large proportion of the system.
 
-Each test case resides alongside sample directory fixtures in `FILE/FILEpathAbsolute/tests/`, ensuring results are consistent and reproducible.
+There will obviously be cases that need something more sophisticated, but I’ll deal with those when I encounter them.
 
-By following this approach, Flow makes writing and running tests straightforward—even when dealing with tricky cases like file paths.
+This should greatly reduce the amount of boilerplate code required for testing. It also makes the tests themselves extremely easy to read, generate, modify and automate.
+
+More importantly, testing becomes part of the basic architecture rather than something bolted on afterwards.
+
+And the same mechanism shouldn’t just test the core Flow code. Eventually it should make it straightforward to automatically test customer code as I start porting it over to Flow.
+
+I’ll do what I can with this approach and see where its limits are.
+
+But right now, building a very small, very well-tested foundation feels like much higher leverage than having an AI generate large amounts of code for me.
 
