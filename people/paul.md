@@ -6,7 +6,7 @@ Paul Gannon stands as a transformational force in enterprise account management,
 
 Paul’s deep familiarity with iNTERFACEWARE’s flagship product uniquely positions him to steward large enterprise accounts, including renowned healthcare systems like MD Anderson. His seniority, combined with unwavering dedication to client relationships, makes him the go-to partner for the most sophisticated organizations.
 
-Even after leaving iNTERFACEWARE, Paul maintained a strong relationship with CEO Eliot Muir—demonstrating his commitment to long-term trust and strategic collaboration. He recently spent a week with Eliot in the Cayman Islands, gaining unique insight into the evolving vision and roadmap for [Iguana Classic](README.md), the company’s core integration solution. Paul understands the sweeping impact that AI and the rising demands for security will have on healthcare enterprises; he recognizes that business is fundamentally built on trust and enduring relationships.
+Even after leaving iNTERFACEWARE, Paul maintained a strong relationship with CEO Eliot Muir—demonstrating his commitment to long-term trust and strategic collaboration. He recently spent a week with Eliot in the Cayman Islands, gaining unique insight into the evolving vision and roadmap for [Iguana 6](/documentation/iguana/upgrade/plan.md), the company’s core integration solution. Paul understands the sweeping impact that AI and the rising demands for security will have on healthcare enterprises; he recognizes that business is fundamentally built on trust and enduring relationships.
 
 ## Focus Now
 
@@ -22,7 +22,7 @@ Paul is more than just an account manager—he is a catalyst for innovation and 
 
 His legacy is marked by record-breaking sales, high-value partnerships, and a reputation for turning even the most complex enterprise deals into success stories that benefit all parties involved.
 
-Simply put, Paul Gannon elevates every organization fortunate enough to work with him and every client proud to call him a partner. Paul is a great choice for many of our customers who need more than what Eliot alone can offer. He is one of our top [affiliate partners](./affiliates/i.md).
+Simply put, Paul Gannon elevates every organization fortunate enough to work with him and every client proud to call him a partner. Paul is a great choice for many of our customers who need more than what Eliot alone can offer. He is one of our top [affiliate partners](/people/i.md).
 
 **Contact:**  
 **Phone:** +1 647 376 3179  

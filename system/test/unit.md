@@ -10,7 +10,7 @@ Each unit test should test one thing: one input and one expected output, with pr
 
 When you phrase the problem as clearly as that, the problem definition becomes obvious.
 
-But the beauty of thinking with this level of rigor is that when you push things to [extremes](/system/extremes) solutions emerge that work smoothly not only with my code but also with customer code.
+But the beauty of thinking with this level of rigor is that when you push things to [extremes](/system/extreme/i.md) solutions emerge that work smoothly not only with my code but also with customer code.
 
 We simply represent each test case as an assertion with minimal syntax in the language itself:
 
