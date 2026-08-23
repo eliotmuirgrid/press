@@ -10,17 +10,17 @@ Take the ideas behind [FlowShell](/flowshell) and rebuild it on top of [FlowLua]
 
 ## Step 3: Supercharge Observability and Debugging
 
-Next, apply the concepts from [Tools](/quality/tools) to enable [tracing](https://interfaceware.atlassian.net/wiki/spaces/EC/pages/2110259209/C+Tracing) in Lua just as powerfully as in other languages. The simple debugger I wrote for Iguana Lua was functional, but lacked insight into timing. Without timing, you can’t easily find bottlenecks or optimize performance.
+Next, apply the concepts from [Tools](/flow/technical/interface/tools.md) to enable [tracing](https://interfaceware.atlassian.net/wiki/spaces/EC/pages/2110259209/C+Tracing) in Lua just as powerfully as in other languages. The simple debugger I wrote for Iguana Lua was functional, but lacked insight into timing. Without timing, you can’t easily find bottlenecks or optimize performance.
 
 With real tracing and timing information, you make bottlenecks visible and optimization straightforward—**turning debugging from a chore into a joy.**
 
 ## Step 4: Lower the Barrier for Running Web Systems
 
-Implementing a high-performance webserver in this toolset (as I did in Iguana X) is easy. If we then port the [publishing system](https://interfaceware.com/why/hubspot) to run on it, we solve a huge problem. Right now, installing the publishing system requires Nginx and lots of manual configuration—a process that’s painful even for the highly skilled and **a complete blocker for ordinary users**.
+Implementing a high-performance webserver in this toolset (as I did in Iguana X) is easy. If we then port the [publishing system](/communication/hubspot.md) to run on it, we solve a huge problem. Right now, installing the publishing system requires Nginx and lots of manual configuration—a process that’s painful even for the highly skilled and **a complete blocker for ordinary users**.
 
 ## Step 5: Boost Quality and Confidence with Regression Testing
 
-By integrating [Regression Testing](/system/regression), we can build a much more robust and user-friendly publishing system, giving users far better visibility into what’s happening under the hood.
+By integrating [Regression Testing](/system/test/regression.md), we can build a much more robust and user-friendly publishing system, giving users far better visibility into what’s happening under the hood.
 
 ## Step 6: Make It Seamless for Everyone
 
