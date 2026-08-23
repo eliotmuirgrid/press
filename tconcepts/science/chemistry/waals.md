@@ -1,6 +1,6 @@
 # Van der Waals Forces
 
-**Van der Waals forces** are weak, non-covalent forces of attraction or repulsion between molecules or parts of molecules that arise from the interactions of electrons and nuclei. They are **not** due to chemical bonding (like [ionic](ionic.md), covalent, or metallic bonds) but rather weak interactions that play a crucial role in many physical, chemical, and biological processes.
+**Van der Waals forces** are weak, non-covalent forces of attraction or repulsion between molecules or parts of molecules that arise from the interactions of electrons and nuclei. They are **not** due to chemical bonding (like ionic, covalent, or metallic bonds) but rather weak interactions that play a crucial role in many physical, chemical, and biological processes.
 
 ## Types of Van der Waals Forces:
 

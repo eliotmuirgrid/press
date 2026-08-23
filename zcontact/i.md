@@ -14,7 +14,11 @@ Or connect via Zoom:
 
 ## Julian Muir — Support (Cat joke appreciation: Unknown)
 
+**Best contact:**  
+WhatsApp or iMessage: **+36 20 326 5688**
+
 Email: [julian.muir@interfaceware.com](mailto:julian.muir@interfaceware.com)
+or: [support@interfaceware.com](mailto:support@interfaceware.com)
 
 ---
 

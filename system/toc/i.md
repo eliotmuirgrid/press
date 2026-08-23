@@ -4,7 +4,7 @@
 
 ## The Key Idea
 
-Any system that has flow—whether it's water through a pipe, cash flowing through a business, or data moving through a software program—must, by definition, have one key constraint that limits the flow of the entire system. The system cannot operate any faster than its primary constraint—the [bottleneck](/system/bottleneck).
+Any system that has flow—whether it's water through a pipe, cash flowing through a business, or data moving through a software program—must, by definition, have one key constraint that limits the flow of the entire system. The system cannot operate any faster than its primary constraint—the [bottleneck](/system/toc/bottleneck.md).
 
 When I first read about this concept, I immediately realized it described a process I had intuitively followed for years while optimizing software.
 
@@ -53,7 +53,7 @@ Employees claimed they “got” the Theory of Constraints, but in reality, they
 
 Eventually, I realized I had to end everyone’s employment contracts and start again. It was rocky at first.
 
-But then things [began to click into place—one bottleneck at a time](/system/bottleneck/restructure.md).
+But then things [began to click into place—one bottleneck at a time](/system/toc/restructure.md).
 
 Where did this incredible theory come from?
 
@@ -66,7 +66,7 @@ It’s not exactly new, and most organizations don’t have it top of mind.
 
 ## How Did Eliot Find It?
 
-It began when Eliot read [**The Machine** by Justin Roff-Marsh](/system/toc/machine). Justin gave a talk at a Peerscale conference I attended in Toronto, during one of the annual retreats.
+It began when Eliot read [**The Machine** by Justin Roff-Marsh](/system/toc/machine.md). Justin gave a talk at a Peerscale conference I attended in Toronto, during one of the annual retreats.
 
 There was a huge uproar among the sales leaders, who absolutely hated Justin’s ideas.
 

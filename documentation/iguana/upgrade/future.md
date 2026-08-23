@@ -12,4 +12,4 @@ Dealing with HL7, FHIR, and Epic integrations can feel like playing pin the tail
 
 That is why I think screen-based workflow automation may have better longevity. It is not a trivial engineering problem, but it gets closer to the real source of truth: what the user sees, enters, and needs to act on.
 
-Time is valuable though and this version of iNTERFACEWARE is [more selective in who we do business with](consulting.md).
+Time is valuable though and this version of iNTERFACEWARE is [more selective in who we do business with](../../../business/consulting.md).

@@ -10,7 +10,7 @@ In basic chemistry, **glue** is a substance that **binds materials together** by
 
 ### **Adhesion**  
 This is the ability of the glue to stick to other surfaces. It involves
-- **Physical attraction** (such as [van der Waals forces](../waals) between glue molecules and the surfaces.
+- **Physical attraction** (such as [van der Waals forces](/tconcepts/science/chemistry/waals.md) between glue molecules and the surfaces.
 - **Chemical bonding**: Sometimes, glue forms new chemical bonds (like covalent or ionic bonds) with the material’s surface, depending on the type of glue and material.
 
 ### **Cohesion**  

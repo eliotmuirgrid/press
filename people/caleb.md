@@ -6,6 +6,6 @@ He highlighted that one of the strengths of Iguana is its long-standing support 
 
 Caleb also mentioned that this is an opportunity to make HealthSecure even more secure. He expressed concern that SOC2 protocols often focus more on documenting existing processes rather than ensuring true security.
 
-For a solution to an issue Caleb identified, see [Containerization of Legacy Applications](../aazip/llp.md).
+For a solution to an issue Caleb identified, see [Containerization of Legacy Applications](/flow/technical/code/zip/llp.md).
 
 ---

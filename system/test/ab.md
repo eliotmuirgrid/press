@@ -28,7 +28,7 @@ A/B Testing isn’t just for software or marketing—it’s a powerful mindset f
 
 ---
 
-> **This cycle of testing and learning is the engine behind [extreme system performance](extreme.md).**
+> **This cycle of testing and learning is the engine behind [extreme system performance](/system/extreme/i.md).**
 
 ---
 
