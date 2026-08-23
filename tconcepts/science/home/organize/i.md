@@ -7,7 +7,7 @@ end up with more and more poorly organized systems.
 
 I feel the same about my physical spaces as I do about my digital and mental spaces.
 
-In [Flow](/system/flow) code for instance we follow the convention of one function
+In [Flow](/flow/i.md) code for instance we follow the convention of one function
 per file.  It makes sense because you need it to be easy to find these functions
 and not just make yet another function of the same type when you have one which
 will already do the job.
