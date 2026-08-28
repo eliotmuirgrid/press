@@ -5,6 +5,11 @@
 **We're here to help!**
 ## Open a support ticket
 
+Keep in mind you need be a direct paid up customer to receive support.  Sometimes we get
+calls from people that are using Iguana when it has been embedded in someone else's overall
+solution.  If this is the case then you should contact your your vendor for support.  But if
+you would like to purchase a direct support the [contact sales](zcontact).
+
 For License keys go to the online [License system](/license).
 
 To open a technical support ticket here are the contact details to use:
