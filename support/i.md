@@ -4,10 +4,6 @@
 
 **We're here to help!**
 
-## How to get good support 
-
-The following information si 
-
 ## Our Support Philosophy
 
 We value kind, respectful communication—mutual respect helps us help you quickly and effectively.
@@ -19,8 +15,6 @@ We’re always happy to hop onto a Zoom call for an open conversation. Expect do
 ## Read the Documentation First
 
 Before reaching out, please take a moment to search our website. Many questions already have solutions in our documentation, FAQs, and technical articles. If your question is covered there, we trust you’ll find it.
-
-Currently, we’ve intentionally skipped a website search function—Eliot wants to encourage curiosity and thoughtful exploration.
 
 ## Consult AI First
 
