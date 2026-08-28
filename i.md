@@ -23,7 +23,7 @@ Businesses that consistently outperform their competitors don't optimize everyth
 ## Main Resources
 
 - [Product Documentation](documentation.md)
-- [Information on how to get support](support.md). Unfortunately, email communication has degraded, so we encourage other forms of communication.
+- [For Support](support.md).
 - [Get license codes right here.](license.md)
 - [Product Downloads](downloads.md)
 - [Billing processes are being optimized.](billing.md)
