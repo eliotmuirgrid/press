@@ -10,6 +10,7 @@ Download our major installers directly:
 - [Iguana 6.1.5 for Mac OS X](https://github.com/eliotmuirgrid/downloads/raw/main/iguana_6_1_5_macosx.zip)
 - [Iguana X for Mac OS X (10.1.119)](https://github.com/eliotmuirgrid/downloads/raw/main/IguanaX_10.1.119.dmg)
 - [Iguana X for Windows (10.1.119)](https://github.com/eliotmuirgrid/downloads/raw/main/iguanaX_10.1.119_windows_setup.exe)
+- [Iguana X for Linux (10.1.119)](https://github.com/eliotmuirgrid/downloads/raw/main/IguanaX_10.1.119_linux)
 
 ---
 

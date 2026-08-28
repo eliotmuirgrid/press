@@ -2,31 +2,24 @@
 
 ![](contact.png)
 
-## Eliot Muir — Development, Strategy, and Cat Jokes
+## Support 
 
-**Best contact:**  
-WhatsApp or iMessage: **+1 345 325 1240**
+[Contact support (support@interfaceware.com)](mailto:support@interfaceware.com)
 
-Or connect via Zoom:  
-[interfaceware.zoom.us/my/eliotmuir](https://interfaceware.zoom.us/my/eliotmuir)
+## Licensing
 
----
+[Contact licensing (license@interfaceware.com)](mailto:license@interfaceware.com)
 
-## Julian Muir — Support (Cat joke appreciation: Unknown)
+## Sales 
 
-**Best contact:**  
-WhatsApp or iMessage: **+36 20 326 5688**
+[Contact sales (sales@interfaceware.com)](mailto:sales@interfaceware.com)
 
-Email: [julian.muir@interfaceware.com](mailto:julian.muir@interfaceware.com)
-or: [support@interfaceware.com](mailto:support@interfaceware.com)
+Also for business development contact 
 
----
+[Contact Paul Gannon (paul.gannon@interfaceware.com)](mailto:paul.gannon@interfaceware.com)
 
-## Paul Gannon — Finance & Negotiation (Enjoys British Humour, Not Cat Jokes)
+## Emergency After Hour Support
 
-WhatsApp: 1 647 376 3179
-
-No iMessage - he's an Android guy.
-
-Email: [paul.gannon@interfaceware.com](mailto:paul.gannon@interfaceware.com)
-
+[+36 20 326 5688](tel:+36203265688)  
+[+1 345 325 1240](tel:+13453251240)
+```
