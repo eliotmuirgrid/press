@@ -7,7 +7,7 @@
 
 Keep in mind you need be a direct paid up customer to receive support.  Sometimes we get
 calls from people that are using Iguana when it has been embedded in someone else's overall
-solution.  If this is the case then you should contact your your vendor for support.  But if
+solution.  If this is the case then you should contact your vendor for support.  But if
 you would like to purchase a direct support the [contact sales](zcontact).
 
 For License keys go to the online [License system](/license).
@@ -51,5 +51,4 @@ Keep it concise—most technical issues can be explained in a few paragraphs.
 
 Simple, direct messages are faster, easier to process, and more efficient for everyone.  We're here to help and we'll look forward to getting you back in production.
 
----
 
