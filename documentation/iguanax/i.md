@@ -1,8 +1,6 @@
 # Iguana X
 
-While definitely pretty looking Iguana X reminds Eliot of some of ex girlfriends
-who were also quite pretty but weren't terribly reliable.
+We recognize that several of our customers are strong advocates of Iguana X, and we are committed to ensuring the continued development and success of this platform.
 
-He had fond memories, got some good ideas but could never really get things to work
-so he let it go. Iguana X is floating around the internet and is quite a nice bit of
-code for curious folk to learn from but not some one should depend on.
+However, we have identified several key areas where Iguana X needs improvement to reach the level of robustness offered by Iguana 6. Our goal is to address these gaps and deliver a platform that meets and exceeds your expectations.
+

@@ -1,9 +1,0 @@
-# Osmosis 
-
-**Osmosis is an equilibrium concept.**
-
-Osmosis is the spontaneous movement of solvent molecules—most commonly water—across a semipermeable membrane from a region of lower solute concentration to a region of higher solute concentration. This movement occurs because the system is striving to minimize differences in chemical potential, ultimately seeking equilibrium. The semipermeable membrane allows the passage of solvent but not solute molecules, creating a selective barrier essential for the process.
-
-At its core, osmosis can be understood as a dynamic equilibrium process. Initially, there is a net flow of solvent into the more concentrated solution, increasing its volume and simultaneously decreasing the concentration difference across the membrane. As the movement continues, the pressure on the more concentrated side (called osmotic pressure) builds up, counteracting further solvent influx. Osmosis proceeds until the chemical potential of the solvent is equal on both sides of the membrane. At this point, the system has reached osmotic equilibrium: the rate of solvent molecules moving in each direction is equal, and there is no net change in solvent distribution.
-
-This [equilibrium](/system/balance) concept is vital in understanding biological systems, industrial applications, and physical chemistry. For instance, in living cells, osmotic equilibrium influences cell volume and pressure, maintaining homeostasis. Thus, osmosis is not simply the movement of water but a process governed by fundamental thermodynamic principles, seeking to balance the free energies—or chemical potentials—of the solvent across a barrier, resulting in a stable, equilibrium state.

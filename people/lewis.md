@@ -10,9 +10,5 @@ In addition to his in-depth product expertise, Jeff is thoroughly familiar with 
 
 When I recommend Jeff Lewis, I do it without hesitation. His experience, his clear understanding of our values, and his genuine approach make him a tremendous resource for anyone looking to get more out of Iguana and iNTERFACEWARE.
 
-Jeff has the ability to really create value in a massive new way for people like Teletracking
-who now sit on huge treasure trove of so called 'legacy technology'.  [Old is the new sexy when it
-comes to security](/tconcepts/science/computer/security/i.md). 
-
 [Connect with Jeff on LinkedIn](https://www.linkedin.com/in/jeffrey-lewis-318a542/)
 

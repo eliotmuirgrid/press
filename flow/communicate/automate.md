@@ -6,7 +6,7 @@ We're still refining Flow Communicate, so you may occasionally receive a message
 
 Once we have perfected Flow Communicate, we’ll offer it to our clients to help them streamline their own organizations.
 
-Since Flow is open source, you’re never restricted by the features we provide out of the box. You have the flexibility to expand its capabilities, address your organization’s unique requirements, and apply the powerful [Theory of Constraints](/system/toc).
+Since Flow is open source, you’re never restricted by the features we provide out of the box. You have the flexibility to expand its capabilities, address your organization’s unique requirements, and apply the powerful Theory of Constraints.
 
 Welcome to a **Brave New World**!
 

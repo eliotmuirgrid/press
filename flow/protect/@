@@ -1,0 +1,13 @@
+# DNS Protect
+
+Your domain name server (DNS) records are the VIP pass to your business on the web. Lose control of those, and your fancy website might as well be a lemonade stand hidden in a corn maze.
+
+Traditionally, DNS providers like GoDaddy can feel less like a tech partner and more like a creepy uncle from a bad movie. You just want to update an A record, but instead you're dodging pop-up ads for email plans, SSL certificates, and that one weird trick to boost your SEO. By the time you leave, you're not sure if you own a domain, a timeshare, or a lifetime supply of ergonomic mouse pads.
+
+Enter [Flow Protect](/flow/protect), your digital bouncer for DNS records. Store all your DNS settings in a sane, auditable way using Git – so you can tell exactly who changed what, and when.
+
+Now, business owners can launch DNS changes into production with the same confidence as clicking “Buy Now” on next-day shipping. Total transparency, zero drama.
+
+Need to update a record? Employees are gently nudged by the magic of forking](/tconcepts/science/computer/git/fork) the repo and politely requesting changes—like adults in a sitcom, not goblins fighting over a password sticky note. That way, the sacred intellectual property is lovingly guarded, and chaos is kept at bay.
+
+

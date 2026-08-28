@@ -1,22 +1,30 @@
 # iW – Integration That Improves Business Performance
 
-We help organizations identify and remove operational bottlenecks using the [Theory of Constraints](/system/toc). The goal isn't integration for its own sake—it's measurable business improvement.
+We are the makers of Iguana and IguanaX — fast, reliable healthcare integration engines designed to make complex integration work simple.
 
 ![](toc.png)
 
-Complexity is the enemy of performance. Often the fastest way to improve a business isn't to add more technology, but to [remove processes, systems, and solutions](/system/remove) that no longer create value. Think of it as decluttering your business.
+We support two generations of Iguana: Iguana 6, our classic and proven platform, and IguanaX, our newer generation.
 
-We challenge conventional thinking, using simple analogies to explain complex ideas. Sometimes the right answer is uncomfortable—but meaningful improvement rarely comes from doing what everyone else does.
+We are committed to both products. They are critical infrastructure for organizations around the world, and our customers depend on them every day in production.
 
-We value substance over appearance. This website is intentionally simple because clarity matters more than polish.
+## Critical infrastructure needs to evolve carefully
 
-## Built on Iguana. Moving Forward with Flow.
+There are things our customers love about Iguana 6, and there are things they love about IguanaX.
 
-Iguana 6 remains the foundation of our production business. It's future, however, is [Flow](/flow): a platform designed to optimize not only integration, but the way software is designed, built, and improved.
+Rather than forcing customers through disruptive migrations, we are gradually evolving both products and bringing the best ideas from each into the other.
 
-We're applying Flow to our own business first, refining it through real-world use before introducing it to customers. We believe the best way to prove technology is to rely on it ourselves.
+Iguana has always been known for making healthcare integration unusually easy while delivering the reliability required of critical infrastructure.
 
-Businesses that consistently outperform their competitors don't optimize everything—they [optimize the constraint](/system/toc/bottleneck). That's the philosophy behind everything we build.
+That reliability can easily be taken for granted — but achieving it is a difficult engineering problem. It comes from careful engineering, conservative change, and a long-term commitment to the software our customers depend on.
+
+We are committed to that long-term journey. Iguana 6 and IguanaX will continue to evolve together, becoming simpler, stronger and increasingly aligned over time.
+
+## Flow
+
+We continue to explore and develop new technologies through Flow, including technologies that we use internally to improve how we build and operate our business.
+
+Our commercial focus, however, remains clear: Iguana 6 and IguanaX, and the customers who depend on them.
 
 ## Main Resources
 
@@ -27,7 +35,7 @@ Businesses that consistently outperform their competitors don't optimize everyth
 - [Billing processes are being optimized.](billing.md)
 - [Chameleon Customers: Please note, Secure Sockets will be mandatory in 2026](/documentation/chameleon/security)
 
-This website is built with [Flow Publish](/flow/publish), the first application of the Flow platform. It also represents the first step in the [long-term evolution of Iguana 6, allowing customers to adopt new technology gradually and safely](/flow/aiguana).
+This website is built with [Flow Publish](/flow/publish), the first application of the Flow platform. 
 
 Our mission hasn't changed:
 
