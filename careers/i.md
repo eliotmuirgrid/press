@@ -1,23 +1,31 @@
 # Careers
 
-## Support Engineer – Iguana & Iguana X
+## Iguana Integration Engineer – Customer Success
 
-We're seeking a **Support Engineer** to join our small team and help our customers get the most out of Iguana, Iguana X, and Chameleon.
+**Total Compensation: US$90,000–$130,000**
 
-**Requirements:**  
-- **Minimum two years of hands-on, production experience with Iguana.**
-- Ideally, you've worked as an **integration engineer for one of our customers** and understand the realities of real-world integrations: keeping interfaces running smoothly, troubleshooting under pressure, and ensuring data moves reliably where it's needed.
+We’re looking for an experienced **Iguana integration engineer who enjoys working with customers**.
 
-**Role Overview:**  
-This is a customer-facing role focused not just on resolving tickets, but on **educating and empowering our customers**. You'll help users gain confidence and proficiency with our products, supporting them in solving complex integration problems and building robust solutions.
+Ideally, you’ve worked as an integration engineer for one of our customers and have experienced firsthand what real-world healthcare integration is like: keeping interfaces running, troubleshooting production problems, and making sure critical data gets where it needs to go.
 
-**Who We're Looking For:**  
-- Friendly, personable, and communicates technical ideas clearly  
-- Enjoys teaching, mentoring, and helping others succeed  
-- Takes full ownership of problems through to resolution  
-- Proactive in suggesting improvements, with a keen eye for what truly helps our customers
+This isn’t a traditional ticket-driven support role. Your job is to help our customers become **confident, proficient users of Iguana, Iguana X, and Chameleon**.
 
-As a small team, every member makes a meaningful impact. You'll work directly with our founder, Eliot Muir, collaborating to identify and implement changes that dramatically improve our customers’ experience. Our approach is solutions-driven, focusing on what will most benefit our clients—even if it's not what they initially request.
+### Requirements
 
-If you have **deep, hands-on experience with Iguana in production** and understand integration from the customer’s perspective, **we'd love to hear from you.**
+* At least **two years of hands-on production experience with Iguana**
+* Real-world experience building, operating, and troubleshooting integrations
+* Friendly, personable, and comfortable working directly with customers
+* Able to explain technical concepts clearly
+* Enjoys teaching and helping other people succeed
+* Takes ownership of problems through to resolution
+
+### The Role
+
+You’ll work directly with customers to solve integration problems, but an important part of your role is **education**. We want to help customers understand our products well enough to solve problems themselves and build reliable integrations with confidence.
+
+You’ll also have an opportunity to influence the products themselves. We’re a small team, and you’ll work directly with our founder, **Eliot Muir**, identifying friction experienced by customers and helping us improve the way our products work.
+
+We’re looking for someone who understands integration **from the customer’s perspective** and is interested in making it simpler and better.
+
+If that sounds like you, **please [contact Eliot Muir directly on LinkedIn](https://www.linkedin.com/in/eliotmuir/).**
 
