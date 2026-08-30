@@ -2,8 +2,6 @@
 
 ## Iguana Integration Engineer – Customer Success
 
-**Total Compensation: US$90,000–$130,000**
-
 We’re looking for an experienced **Iguana integration engineer who enjoys working with customers**.
 
 Ideally, you’ve worked as an integration engineer for one of our customers and have experienced firsthand what real-world healthcare integration is like: keeping interfaces running, troubleshooting production problems, and making sure critical data gets where it needs to go.
