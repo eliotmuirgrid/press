@@ -1,4 +1,4 @@
-# ICONV
+# Iconv
 
 **iconv** is an essential utility commonly found on Unix-like systems. It stands for "international conversion," and its primary function is to convert text from one character encoding to another. This capability is particularly useful when dealing with files created in different regions or systems, where encoding formats may vary (for example, converting between UTF-8 and ISO-8859-1). By enabling seamless conversion of file encodings via the command line or within scripts, iconv helps ensure compatibility and proper display of text data across various platforms and applications.
 
