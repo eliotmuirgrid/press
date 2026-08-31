@@ -29,9 +29,7 @@ We are ensuring that customers have all the license codes they need to operate s
 
 To obtain permanent license keys, you will need a Company ID.
 
-Please contact Eliot via iMessage or WhatsApp at 1 345 325 1240.
+Please contact [licensing@interfaceware.com](licensing@interfaceware.com).
 
 Thank you! Creating a customer ID for you is a straightforward process on our end.
-
-*I am implementing the [Theory of Constraints](/system/toc) in practice.*
 
