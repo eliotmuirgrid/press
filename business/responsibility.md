@@ -18,7 +18,7 @@ It's not glamorous work by most people's standards but for me there is a quiet j
 
 It would have been better for me financially to have sold out years ago but I always cared deeply about my products and my customers.  I have always put those first.  Perhaps I should be more selfish but I that has never been my priority.  Almost 30 years working on these products. Almost unheard of in technology.
 
-You can read a little about my efforts with Iguana 6 in my [Iguana 6.2.1 notes](/iguana/iguana621).
+You can read a little about my efforts with Iguana 6 in my [Iguana 6.2.1 notes](/documentation/iguana/iguana621).
 
 **Eliot Muir**
 **CEO, Architect of Iguana/Chameleon**
