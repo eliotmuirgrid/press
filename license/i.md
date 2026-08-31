@@ -29,7 +29,7 @@ We are ensuring that customers have all the license codes they need to operate s
 
 To obtain license keys, you will need a Company ID.
 
-Please contact [licensing@interfaceware.com](licensing@interfaceware.com).
+Please contact [licensing@interfaceware.com](mailto:licensing@interfaceware.com).
 
 Thank you! Creating a customer ID for you is a straightforward process on our end.
 
