@@ -25,9 +25,9 @@ We are ensuring that customers have all the license codes they need to operate s
 
 ---
 
-## To Get Permanent License Keys: Company ID Required
+## To Get License Keys: Company ID Required
 
-To obtain permanent license keys, you will need a Company ID.
+To obtain license keys, you will need a Company ID.
 
 Please contact [licensing@interfaceware.com](licensing@interfaceware.com).
 
