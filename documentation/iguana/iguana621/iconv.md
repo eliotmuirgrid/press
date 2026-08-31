@@ -10,5 +10,7 @@ I first noticed a problem with iconv when I found that the initial build of Igua
 
 To some, cross-platform development might seem an unnecessary complication, but it actually encourages a heightened awareness of simplicity. This focus on simplification is what has made Iguana so stable—and why our customers have trusted it for so many years. But it’s important to remember: simple doesn't come easy.
 
-I hope to eventually remove the iconv library from Iguana 6, but first I’ll need to carefully determine if there is any custom code that still depends on it.
+I hope to eventually remove the iconv library from Iguana 6, but first I’ll need to carefully determine if there is any customer code that still depends on it. Perhaps we can detect calls to iconv code and ask customers to report the usage to us?
+
+Today things have standardized on UTF8 and so it may be that we say goodbye to this friction.
 
