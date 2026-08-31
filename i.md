@@ -32,8 +32,6 @@ Our commercial focus, however, remains clear: Iguana 6 and IguanaX, and the cust
 - [For Support](support.md).
 - [Get license codes right here.](license.md)
 - [Product Downloads](downloads.md)
-- [Billing processes are being optimized.](billing.md)
-- [Chameleon Customers: Please note, Secure Sockets will be mandatory in 2026](/documentation/chameleon/security)
 
 This website is built with [Flow Publish](/flow/publish), the first application of the Flow platform. 
 
