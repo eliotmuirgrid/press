@@ -4,7 +4,7 @@
 
 If we are building new technology, why create something that solves the same problem as Iguana? Flow is a much bigger idea. It’s the foundation of a technology that will allow our customers and affiliates to tackle really big, really important problems—the kinds of constraints that limit growth.
 
-Flow is the very embodiment of the [Theory of Constraints](/system/toc) expressed in software.
+Flow is the very embodiment of the Theory of Constraints expressed in software.
 
 ## Flow is Open Source
 
