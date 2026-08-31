@@ -1,6 +1,6 @@
 # Flowlua
 
-[Flowlua](https://github.com/eliotmuirgrid/flowlua) is a project I wrote using [Cosmopolitan](https://github.com/jart/cosmopolitan). There are some really nice features in here, especially with the build system.
+[Flow](https://github.com/eliotmuirgrid/flow) is a project I wrote using [Cosmopolitan](https://github.com/jart/cosmopolitan). There are some really nice features in here, especially with the build system.
 
 ## What makes it interesting?
 
