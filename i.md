@@ -18,7 +18,7 @@ Iguana has always been known for making healthcare integration unusually easy wh
 
 That reliability can easily be taken for granted — but achieving it is a difficult engineering problem. It comes from careful engineering, conservative change, and a long-term commitment to the software our customers depend on.
 
-We are committed to that long-term journey. Iguana 6 and IguanaX will continue to evolve together, becoming simpler, stronger and increasingly aligned over time.
+We are [committed to that long-term journey](/business/responsibility). Iguana 6, IguanaX and Chameleon will continue to evolve together, becoming simpler, stronger and increasingly aligned over time.
 
 ## Flow
 
