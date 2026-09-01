@@ -6,3 +6,4 @@ We developed a DICOM plugin, but in hindsight, it was never really used by any o
 
 This experience reinforces the importance of understanding the real challenges our customers face in their core workflows. The true value of our work comes from identifying and reducing friction in these everyday tasks. That’s why observing the real friction with our customers about what matters to them is so important.
 
+The [comparison](comparison.md) problem on the other hand would address something that customers find difficult.
