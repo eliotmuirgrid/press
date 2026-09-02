@@ -12,6 +12,8 @@ We are committed to both products. They are critical infrastructure for organiza
 
 There are things our customers love about Iguana 6, and there are things they love about IguanaX.
 
+You can read specifics about that [thought process looking at the next incremental release of Iguana 6](/documentation/iguana/iguana621).  It really takes a lot of attention to detail when it comes to software of this type.
+
 Rather than forcing customers through disruptive migrations, we are gradually evolving both products and bringing the best ideas from each into the other.
 
 Iguana has always been known for making healthcare integration unusually easy while delivering the reliability required of critical infrastructure.
