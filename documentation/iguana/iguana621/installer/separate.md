@@ -1,18 +1,15 @@
-# Seperate
+# Separate
 
-Another key change that the Iguana installer for windows
-definitely needs is make it easy to follow the best practices
-for using Iguana.
+Another key change that the Iguana installer for Windows definitely needs is to make it easy to follow best practices for using Iguana.
 
-I remember back in the day being so frustrated how the windows
-installer on Windows worked that I would encourage customers
-to install Iguana using zip file and explicitly put their working
-directory somewhere else.
+I remember back in the day being so frustrated with how the installer on Windows worked, that I would encourage customers to install Iguana using the zip file and explicitly set their working directory elsewhere.
 
-But it required people to read documentation and think about doing
-the right thing.
+But this required people to read the documentation and think about doing the right thing.
 
-On windows by default Iguana should install it's data in C:\ProgramData\.
+On Windows, by default, Iguana should install its data in C:\ProgramData\Iguana<Version>\
 
-This is what we finally did with Iguana X.
+We did something similar to that with Iguana X but still made it an inplace upgrade which
+in retrospect I think was too risky.
+
+
 
