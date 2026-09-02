@@ -20,9 +20,9 @@ A new Iguana release should install into its own directory.
 
 For example:
 
-`C:\Program Files\iNTERFACEWARE\Iguana\6.2.1\`
+`C:\Program Files\iNTERFACEWARE\Iguana\<version>\`
 
-Installing Iguana 6.2.1 should not modify, stop, upgrade, uninstall or clean up an existing Iguana installation.
+Installing Iguana should not modify, stop, upgrade, uninstall or clean up an existing Iguana installation.
 
 The existing Iguana continues running exactly as it did before.
 
@@ -100,7 +100,7 @@ Because Iguana knows the location of its own configuration, it can determine whi
 
 Conceptually:
 
-`Iguana 6.2.1 shortcut → Iguana → determine configured web port → open browser`
+`Iguana shortcut → Iguana → determine configured web port → open browser`
 
 This also means that if the administrator subsequently changes the web port, the Windows shortcut continues to work.
 
@@ -118,14 +118,14 @@ Most importantly, importing configuration should **not automatically start impor
 
 The administrator could therefore:
 
-1. Install Iguana 6.2.1 alongside the existing Iguana.
+1. Install the new Iguana alongside the existing Iguana.
 2. Start the new Iguana with a fresh configuration.
 3. Open its independent web interface.
 4. Configure or verify its runtime settings.
 5. Import configuration from the existing Iguana.
 6. Have all imported channels initially disabled - no autostart.
 7. Stop one production channel on the old Iguana.
-8. Start the corresponding channel on Iguana 6.2.1.
+8. Start the corresponding channel on the new Iguana .
 9. Verify that it behaves correctly.
 10. Continue migrating channels one at a time.
 
@@ -157,11 +157,11 @@ This makes the transition explicit rather than hiding it inside installer logic.
 
 The most important benefit of parallel installation is the rollback path.
 
-Suppose an interface is migrated to Iguana 6.2.1 and something unexpected occurs.
+Suppose an interface is migrated to a new Iguana version and something unexpected occurs.
 
 The administrator can simply:
 
-`Stop the channel on 6.2.1 → Start the channel on the old Iguana`
+`Stop the channel on new Iguana → Start the channel on the old Iguana`
 
 The old installation has not been overwritten.
 
