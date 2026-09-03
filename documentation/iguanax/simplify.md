@@ -8,9 +8,10 @@ On September 3rd, I began this process for Iguana X with a straightforward idea:
 
 I am confident that Iguana X can achieve this same clarity and reliability as Iguana 6 by moving forward step by step.
 
-You can review the core changes here: [Remove Commit](https://bitbucket.org/interfaceware/interfaceware-core/commits/6841093002e025191e2359ac3a748764f4b183f4).
+You can review the core changes here: [components removed](https://bitbucket.org/interfaceware/interfaceware-core/commits/6841093002e025191e2359ac3a748764f4b183f4).  I followed that with [another scrub of things](https://bitbucket.org/interfaceware/interfaceware-core/commits/9e354cc5012999e1dcd8adaeefddb4770bf7de76) which just are not core to the bread and butter of what
+our customers need.  In case people want to access these components then I put them into this repo here on my personal github site:
 
-In addition, I have simplified the To/From LLP components by removing the use of sub-repositories in their implementation. These components are central to an interface engine’s function, and reducing their complexity minimizes the risk of breakages inherent in managing sub-repositories. In this case, simplicity offers clear benefits.
+In addition, I have simplified the To/From LLP components by removing the use of sub-repositories in their implementation. These components are central to an interface engine’s function, and reducing their complexity minimizes the risk of breakages inherent in managing sub-repositories and just makes it easier to browse the code online and check out the entire repository. In this case, simplicity offers clear benefits.
 
 Here are the specific diffs for reference:
 
