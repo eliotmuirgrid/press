@@ -1,0 +1,148 @@
+# Purpose
+
+Healthcare has spent roughly 40 years building its HL7 interface infrastructure.
+
+What it accumulated during those 40 years is not merely technical debt. It is an enormous body of institutional knowledge encoded in software.
+
+Every mature interface contains decisions: how a particular hospital identifies a patient, how an unusual laboratory result is represented, what happens when a field is missing, how duplicate messages are handled, which exceptions a particular clinical system requires, and thousands of other details discovered through years of real-world operation.
+
+Much of that knowledge exists nowhere else.
+
+The documentation may be incomplete. The people who originally implemented the interface may have left years ago. The receiving systems may have changed. In many cases, **the only complete specification of what the interface is supposed to do is the interface itself.**
+
+That creates a serious economic problem.
+
+### The economics of rebuilding don't work
+
+There was usually a clear business case for creating an interface originally.
+
+A hospital needed two systems to communicate. Integration engineers were assigned. Requirements were gathered. Problems were discovered. Code was written and tested. The customer paid because without the interface, an important workflow could not operate.
+
+Once that interface works, however, its economic value becomes almost invisible.
+
+A customer that was willing to spend substantial money establishing an interface may have very little appetite for spending the same amount again simply to obtain exactly the same behavior on a newer technology platform.
+
+For one interface this is inconvenient.
+
+Across thousands of healthcare organizations and decades of interfaces, it becomes an industry-wide economic problem.
+
+**There is neither enough money nor enough engineering capacity to rewrite the healthcare interface estate from scratch.**
+
+Yet the platforms underneath those interfaces cannot run forever.
+
+### The real problem isn't translating code
+
+It is tempting to think modernization means translating old software into a newer programming language.
+
+That misses the difficult part.
+
+The difficult part is determining precisely what the old software does.
+
+Real interfaces contain undocumented edge cases accumulated through years of production use. They may depend on databases, stored procedures, files, operating-system behavior or peculiarities of other applications.
+
+Trying to reconstruct all of those requirements through meetings, documentation and human analysis is expensive—and inherently error prone.
+
+So we start from a different premise:
+
+**Don't rewrite the specification. Treat the working system as the specification.**
+
+### Preserve behavior, replace machinery
+
+This turns modernization into a regression-testing problem.
+
+Give the existing implementation an input and observe everything it does.
+
+Then give the same input to a new implementation and compare the observable results.
+
+Where they differ, investigate.
+
+Correct the new implementation.
+
+Run it again.
+
+Repeat until equivalence reaches the level required for production.
+
+The principle is remarkably simple:
+
+**Preserve the behavior. Reduce the implementation. Prove the equivalence.**
+
+Some interfaces make this harder than others. An interface may invoke stored procedures, modify databases or communicate with external systems. In those situations the surrounding environment also has to be captured or simulated.
+
+But the principle remains unchanged.
+
+Instead of asking humans to rediscover decades of requirements, we use the behavior of the existing system as empirical evidence of those requirements.
+
+### AI changes the economics
+
+None of this is a new computer-science idea.
+
+Regression testing is one of the oldest and safest techniques in software engineering.
+
+What is new is the economics.
+
+Historically, capturing behavior, generating test cases, investigating differences and recreating thousands of individually customized interfaces would itself have required enormous numbers of engineers.
+
+AI changes that equation.
+
+It creates the possibility of automating increasingly large parts of the migration loop while retaining deterministic regression testing as the final judge of correctness.
+
+**AI proposes. Tests prove.**
+
+That distinction matters.
+
+We don't need to trust an AI system to understand an entire hospital. We can use AI to accelerate implementation while continuously comparing its output against behavior that is already known to work.
+
+### Security through bounded complexity
+
+The same philosophy applies to security.
+
+Open source alone does not make software secure.
+
+A system can be completely open while depending upon millions of lines of constantly changing frameworks and libraries. In practice, very few people can reason about the security of such a system as a whole. Nor can behaviour be guaranteed over time.
+
+Our objective is different:
+
+**Reduce the amount of software that must be trusted.**
+
+iW uses a deliberately small technology stack: standard C++ underneath a compact Lua environment, minimal dependencies, simple architecture, reproducible builds and extensive automated testing.
+
+The objective isn't technological fashion.
+
+It is bounded complexity.
+
+If critical infrastructure is expected to survive for decades, then understanding the complete system matters more than adopting whatever framework happens to be fashionable this year.
+
+### From technical debt to a migration factory
+
+That leads to a different way of thinking about the problem.
+
+The healthcare industry does not need another enormous project to rewrite all of its interfaces.
+
+It needs a repeatable process for converting old interfaces into smaller, understandable and testable implementations while continuously proving that their behavior has been preserved.
+
+In effect, we want to build a **migration factory**:
+
+**Existing interface → capture behavior → generate tests → create simpler implementation → compare → correct → verify → deploy alongside → cut over when proven.**
+
+Initially, humans will remain involved in difficult cases. Over time, more of that loop can become automated.
+
+The important thing is that every migration makes the process itself better.
+
+That changes the economics dramatically.
+
+### Forty years created the problem. We don't need forty years to solve it.
+
+Healthcare's existing interface infrastructure should not be regarded simply as obsolete software waiting to be discarded.
+
+It represents billions of individual decisions accumulated through decades of real-world clinical operation.
+
+The challenge is to separate those valuable decisions from the aging machinery in which they happen to be encoded.
+
+We believe that is now possible.
+
+**Preserve the knowledge.
+Replace the machinery.
+Prove the behavior.**
+
+That is the problem iW intends to solve.
+
