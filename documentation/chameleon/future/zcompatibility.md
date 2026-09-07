@@ -12,7 +12,7 @@ In this model, the new simple HL7 grammar is mapped to existing Chameleon gramma
 
 A key benefit is that we can regression test at customer sites using existing VMD files, interfaces, and data. Since HL7 interfaces are often highly customized, only real-world testing can reveal issues. Comparing old and new systems side-by-side helps identify any differences.
 
-That would give a modern, web-based graphical interface for working with these grammars enabling easy integration with both Iguana 6 and Iguana X.
+That would give a modern, web-based graphical interface for working with these grammars enabling easy integration with Iguana.
 
 This approach keeps the Chameleon parsing behavior where needed, even if it’s not how we would build things from scratch today. There’s no benefit to changing stable, proven systems without cause.
 
