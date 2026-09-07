@@ -1,4 +1,6 @@
-## iguana_log_verify linking mystery. 
+# Linking
+
+**iguana_log_verify linking mystery.**
 
 At first, **iguana_log_verify** confused me. It was using some methods from the `DBDservice` object in Iguana 6.
 
