@@ -2,8 +2,9 @@
 
 The simplest most deterministic way I could think of installing the perl dependency on windows is something like this:
 
+The logic behind this approach is to **avoid modifying the global environment of the machine** by using a *portable* version of Strawberry Perl. Instead of running a system-wide installer that could change PATH variables or overwrite existing Perl configurations, this method simply downloads and unpacks Perl into a local directory within your project. This keeps your dependency isolated—**changes are only within your project folder**—and ensures no risk to other applications or system settings.
 
-
+By simplifying and isolating the environment in this way, you **avoid risk and make the build process deterministic and reproducible**. Anyone building your project will get the exact Perl version required, with no side effects, simply by running `make`. No need for administrator rights or manual cleanup, and if you want to remove it, you just delete the project folder—*nothing spills into the wider system*
 
 ```
 EliotHomeServer:~/builds/iguana6/openssl_perl % make
