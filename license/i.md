@@ -21,7 +21,7 @@ got one.
 
 - Install Iguana 6.1.5 or 6.2 for Windows and license Iguana separately (see above).
 - Iguana comes with Chameleon embedded.  Iguana is part of [the modernization plan for Chameleon](/documentation/chameleon/future).
-- [This approach is best, since Iguana supports encrypted TCP/IP sockets, which is important.](../downloads/i.md)
+- [This approach also helps since Iguana supports encrypted TCP/IP sockets, which is important for security.](../downloads/i.md)
 
 ---
 
