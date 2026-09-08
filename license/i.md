@@ -1,8 +1,8 @@
 # License Codes
 
-This is a new, resilient licensing system. It is less fully featured than the legacy license system but is designed to work in a distributed manner. Licensing systems matter—they need to be resilient in the face of disruption.
-
-We are ensuring that customers have all the license codes they need to operate safely until we implement a new automated build system.
+Please make sure you have a valid Customer ID in order to use the system.  Contact
+[licensing@interfaceware.com](mailto:licensing@interfaceware.com).  If you have not yet
+got one.
 
 ## Steps to Obtain Your License Code
 
@@ -25,11 +25,11 @@ We are ensuring that customers have all the license codes they need to operate s
 
 ---
 
-## To Get License Keys: Company ID Required
+## To Get License Keys: Customer ID Required
 
-To obtain license keys, you will need a Company ID.
+To obtain license keys, you will need a Customer ID.
 
 Please contact [licensing@interfaceware.com](mailto:licensing@interfaceware.com).
 
-Thank you! Creating a customer ID for you is a straightforward process on our end.
+Thank you! 
 
