@@ -1,8 +1,8 @@
 # License Codes
 
-This is a new, resilient licensing system. It is less fully featured than the legacy license system but is designed to work in a distributed manner. Licensing systems matter—they need to be resilient in the face of disruption.
-
-We are ensuring that customers have all the license codes they need to operate safely until we implement a new automated build system.
+Please make sure you have a valid Customer ID in order to use the system.  Contact
+[licensing@interfaceware.com](mailto:licensing@interfaceware.com).  If you have not yet
+got one.
 
 ## Steps to Obtain Your License Code
 
@@ -19,17 +19,17 @@ We are ensuring that customers have all the license codes they need to operate s
 
 ### For Chameleon
 
-- Install Iguana 6.1.5 or 6.2 for Windows and use the same license key generator as for Iguana Classic (see above).
-- Iguana comes with Chameleon embedded. There are no plans to support separate licensing for Chameleon.  
-- [This approach is best, since Iguana supports encrypted TCP/IP sockets, which is important.](../downloads/i.md)
+- Install Iguana 6.1.5 or 6.2 for Windows and license Iguana separately (see above).
+- Iguana comes with Chameleon embedded.  Iguana is part of [the modernization plan for Chameleon](/documentation/chameleon/future).
+- [This approach also helps since Iguana supports encrypted TCP/IP sockets, which is important for security.](../downloads/i.md)
 
 ---
 
-## To Get License Keys: Company ID Required
+## To Get License Keys: Customer ID Required
 
-To obtain license keys, you will need a Company ID.
+To obtain license keys, you will need a Customer ID.
 
 Please contact [licensing@interfaceware.com](mailto:licensing@interfaceware.com).
 
-Thank you! Creating a customer ID for you is a straightforward process on our end.
+Thank you! 
 

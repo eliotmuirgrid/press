@@ -12,6 +12,11 @@ Download our major installers directly:
 - [Iguana X for Windows (10.1.119)](https://github.com/eliotmuirgrid/downloads/raw/main/iguanaX_10.1.119_windows_setup.exe)
 - [Iguana X for Linux (10.1.119)](https://github.com/eliotmuirgrid/downloads/raw/main/IguanaX_10.1.119_linux)
 
+Please note that Iguana 6 on windows also comes with Chameleon.  If you install and license Iguana 6
+on window then Chameleon will work also.
+
+See [Licensing for more details](/license).
+
 ---
 
 ## Via Curl
